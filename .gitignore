@@ -1,4 +1,53 @@
-# Build and Release Folders
+<?xml version="1.0"?>
+<NounInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/office/accessservices/2011/07/application">
+  <Version>15.0.0.0</Version>
+  <Properties>
+    <Property Name="SuggestedSearches" Value="Person;Order;Service;Sell" />
+  </Properties>
+  <Nouns>
+    <Noun ID="9e711c8e-f33a-4fdb-aeac-31cf8f304d53">
+      <Properties>
+        <Property Name="Name" Value="Agents" />
+        <Property Name="Priority" Value="27" />
+        <Property Name="Description" Value="People who sell items such as Real Estate, Travel or Insurance - includes phone, email and address." />
+        <Property Name="PrioritySearchTerms" Value="Agent;Agents;" />
+        <Property Name="SearchTerms" Value="Agent;Agents;Air;Apartment;Apartments;Automobile;Automobiles;Bed;Beds;Borrow;Borrower;Borrowers;Borrows;Bus;Buses;Car;Cars;Client;Clients;Collision;Collisions;Comprehensive;Condo;Condominium;Condominiums;Condos;Coverage;Debt;Duplex;Duplexes;Estate;Estates;Flat;Flats;Flight;Flights;Home;Homeowner;Homeowners;Homes;Hotel;Hotels;House;Houses;Housing;Insurance;Leg;Legs;Lend;Lends;Liability;Loan;Loans;Management;Manager;Managers;Motel;Motels;Motorcycle;Motorcycles;Plan;Planes;Policies;Policy;Premium;Premiums;Properties;Property;Real Estate;Realtor;Realtors;Rental;Rentals;Renter;Renters;Representative;Representatives;Sale;Sales;Sell;Sells;Suitcase;Suitcases;Train;Trains;Transport;Transportation;Transports;Travel;Travel Agent;Travel Agents;Travels;Trip;Trips;Umbrella;Vacation;Vacations;all;" />
+        <Property Name="IsSupportingTable" Value="false" />
+      </Properties>
+      <Relationships />
+      <TableDefinition>
+        <Schema Namespace="Access.Store" xmlns:axl="http://schemas.microsoft.com/office/accessservices/2010/12/application" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+          <EntityContainer Name="AccessStoreContainer">
+            <EntitySet Name="Agents" EntityType="Access.Store.Agents" axl:DisplayName="Agents" />
+          </EntityContainer>
+          <EntityType Name="Agents" axl:DisplayName="Agents">
+            <Key>
+              <PropertyRef Name="ID" />
+            </Key>
+            <Property Name="ID" Type="Int32" Nullable="false" axl:StoreGeneratedPattern="Identity" axl:Caption="ID" axl:DisplayName="ID">
+              <axl:ExtendedAttributes>
+                <axl:ExtendedAttribute Name="FieldCreationOrder" Value="0" />
+                <axl:ExtendedAttribute Name="AutomaticallyGenerate" Value="None" />
+              </axl:ExtendedAttributes>
+            </Property>
+            <Property Name="First_Name" Type="String" Unicode="true" axl:TextType="SingleLine" MaxLength="220" axl:DisplayName="jazmyne">
+              <axl:ExtendedAttributes>
+                <axl:ExtendedAttribute Name="FieldCreationOrder" Value="1" />
+                <axl:ExtendedAttribute Name="CreateField" Value="true" />
+              </axl:ExtendedAttributes>
+            </Property>
+            <Property Name="First_Name_Furigana" Type="String" Unicode="true" axl:TextType="SingleLine" MaxLength="220" axl:DisplayName="jazmyne Furigana">
+              <axl:ExtendedAttributes>
+                <axl:ExtendedAttribute Name="FieldCreationOrder" Value="2" />
+                <axl:ExtendedAttribute Name="CreateField" Value="false" />
+              </axl:ExtendedAttributes>
+            </Property>
+            <Property Name="Last_Name" Type="String" Unicode="true" axl:TextType="SingleLine" MaxLength="220" axl:DisplayName="Last Name">
+              <axl:ExtendedAttributes>
+                <axl:ExtendedAttribute Name="FieldCreationOrder" Value="3" />
+                <axl:ExtendedAttribute Name="CreateField" Value="true" />
+              </axl:ExtendedAttributes>
+            </Property># Build and Release Folders
 bin-debug/
 bin-release/
 [Oo]bj/
