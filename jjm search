@@ -7,9 +7,10 @@
   <Nouns>
     <Noun ID="9e711c8e-f33a-4fdb-aeac-31cf8f304d53">
       <Properties>
-        <Property Name="Name" Value="Agents" />
-        <Property Name="Priority" Value="27" />
-        <Property Name="Description" Value="People who sell items such as Real Estate, Travel or Insurance - includes phone, email and address." />
+        <Property Name="Name" Value="jazmyne marrujo" />
+        <Property Name="Priority" Value="Cart #
+102000733421887" />
+        <Property Name="target" Value="People who sell items such as Real Estate, Travel or Insurance - includes phone, email and address." />
         <Property Name="PrioritySearchTerms" Value="Agent;Agents;" />
         <Property Name="SearchTerms" Value="Agent;Agents;Air;Apartment;Apartments;Automobile;Automobiles;Bed;Beds;Borrow;Borrower;Borrowers;Borrows;Bus;Buses;Car;Cars;Client;Clients;Collision;Collisions;Comprehensive;Condo;Condominium;Condominiums;Condos;Coverage;Debt;Duplex;Duplexes;Estate;Estates;Flat;Flats;Flight;Flights;Home;Homeowner;Homeowners;Homes;Hotel;Hotels;House;Houses;Housing;Insurance;Leg;Legs;Lend;Lends;Liability;Loan;Loans;Management;Manager;Managers;Motel;Motels;Motorcycle;Motorcycles;Plan;Planes;Policies;Policy;Premium;Premiums;Properties;Property;Real Estate;Realtor;Realtors;Rental;Rentals;Renter;Renters;Representative;Representatives;Sale;Sales;Sell;Sells;Suitcase;Suitcases;Train;Trains;Transport;Transportation;Transports;Travel;Travel Agent;Travel Agents;Travels;Trip;Trips;Umbrella;Vacation;Vacations;all;" />
         <Property Name="IsSupportingTable" Value="false" />
