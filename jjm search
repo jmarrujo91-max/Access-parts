@@ -1,3 +1,6577 @@
+
+1. tslib 1.14.1 - 0BSD
+
+
+
+2. tslib 2.3.1 - 0BSD
+
+
+
+3. tslib 2.5.0 - 0BSD
+
+
+
+4. @ampproject/remapping 2.2.1 - Apache-2.0
+
+5. @christiango/scheduler-polyfill 1.0.4 - Apache-2.0
+
+
+
+6. @lpi/text-encoder-lite 1.0.2 - Apache-2.0
+
+7. @swc/helpers 0.5.3 - Apache-2.0
+
+8. @webassemblyjs/leb128 1.11.5 - Apache-2.0
+
+
+
+9. @xtuc/long 4.2.2 - Apache-2.0
+
+10. adal-angular 1.0.16 - Apache-2.0
+
+
+
+11. aria-query 4.2.2 - Apache-2.0
+
+
+
+12. bser 2.1.1 - Apache-2.0
+
+
+
+13. crc-32 1.2.0 - Apache-2.0
+
+
+
+14. denque 1.5.1 - Apache-2.0
+
+
+
+15. diff-match-patch 1.0.5 - Apache-2.0
+
+
+
+16. exit-on-epipe 1.0.1 - Apache-2.0
+
+
+
+17. fast-text-encoding 1.0.6 - Apache-2.0
+
+18. fb-watchman 2.0.1 - Apache-2.0
+
+
+
+19. human-signals 1.1.1 - Apache-2.0
+
+
+
+20. human-signals 2.1.0 - Apache-2.0
+
+
+
+21. printj 1.1.2 - Apache-2.0
+
+
+
+22. reflect-metadata 0.1.13 - Apache-2.0
+
+
+
+23. rxjs 6.6.7 - Apache-2.0
+
+
+
+24. rxjs 7.8.1 - Apache-2.0
+
+
+
+25. tslib 1.8.1 - Apache-2.0
+
+
+
+26. tunnel-agent 0.6.0 - Apache-2.0
+
+27. typescript 3.4.3 - Apache-2.0
+
+
+
+28. typescript 4.8.4 - Apache-2.0
+
+
+
+29. web-vitals 2.1.2 - Apache-2.0
+
+30. web-vitals 2.1.4 - Apache-2.0
+
+
+
+31. harmony-reflect 1.6.2 - Apache-2.0 OR MPL-1.1 OR (Apache-2.0 AND MPL-1.1)
+
+
+
+32. dompurify 2.3.1 - Apache-2.0 OR MPL-2.0 OR (Apache-2.0 AND MPL-2.0)
+
+
+
+33. dompurify 2.4.5 - Apache-2.0 OR MPL-2.0 OR (Apache-2.0 AND MPL-2.0)
+
+
+
+34. @yarnpkg/lockfile 1.1.0 - BSD-2-Clause
+
+35. cheerio-select 2.1.0 - BSD-2-Clause
+
+
+
+36. css-select 4.1.3 - BSD-2-Clause
+
+
+
+37. css-select 5.1.0 - BSD-2-Clause
+
+
+
+38. css-what 5.0.1 - BSD-2-Clause
+
+
+
+39. css-what 6.1.0 - BSD-2-Clause
+
+
+
+40. default-gateway 4.2.0 - BSD-2-Clause
+
+
+
+41. domelementtype 2.3.0 - BSD-2-Clause
+
+
+
+42. domhandler 4.2.0 - BSD-2-Clause
+
+
+
+43. domhandler 5.0.3 - BSD-2-Clause
+
+
+
+44. domutils 2.8.0 - BSD-2-Clause
+
+
+
+45. domutils 3.1.0 - BSD-2-Clause
+
+
+
+46. entities 2.1.0 - BSD-2-Clause
+
+
+
+47. entities 4.5.0 - BSD-2-Clause
+
+
+
+48. escodegen 1.9.1 - BSD-2-Clause
+
+
+
+49. eslint-scope 5.1.1 - BSD-2-Clause
+
+
+
+50. esprima 1.2.2 - BSD-2-Clause
+
+
+
+51. esprima 3.1.3 - BSD-2-Clause
+
+
+
+52. esrecurse 4.3.0 - BSD-2-Clause
+
+
+
+53. estraverse 4.3.0 - BSD-2-Clause
+
+
+
+54. estraverse 5.3.0 - BSD-2-Clause
+
+
+
+55. esutils 2.0.3 - BSD-2-Clause
+
+
+
+56. glob-to-regexp 0.4.1 - BSD-2-Clause
+
+
+
+57. http-cache-semantics 3.8.1 - BSD-2-Clause
+
+58. nth-check 2.1.1 - BSD-2-Clause
+
+
+
+59. ol 5.3.3 - BSD-2-Clause
+
+
+
+60. terser 5.24.0 - BSD-2-Clause
+
+
+
+61. uri-js 4.4.1 - BSD-2-Clause
+
+
+
+62. webidl-conversions 3.0.1 - BSD-2-Clause
+
+
+
+63. yarn 1.22.5 - BSD-2-Clause
+
+64. @webcomponents/webcomponentsjs 2.5.0 - BSD-3-Clause
+
+
+
+65. @xtuc/ieee754 1.2.0 - BSD-3-Clause
+
+
+
+66. diff 4.0.2 - BSD-3-Clause
+
+
+
+67. diff 5.1.0 - BSD-3-Clause
+
+
+
+68. duplexer3 0.1.4 - BSD-3-Clause
+
+
+
+69. fbemitter 3.0.0 - BSD-3-Clause
+
+
+
+70. flux 4.0.4 - BSD-3-Clause
+
+
+
+71. hoist-non-react-statics 3.3.2 - BSD-3-Clause
+
+
+
+72. ieee754 1.2.1 - BSD-3-Clause
+
+
+
+73. immutable 3.7.6 - BSD-3-Clause
+
+
+
+74. intl-messageformat 9.13.0 - BSD-3-Clause
+
+
+
+75. js-base64 3.7.2 - BSD-3-Clause
+
+
+
+76. moo 0.5.2 - BSD-3-Clause
+
+
+
+77. pbf 3.1.0 - BSD-3-Clause
+
+
+
+78. qs 6.10.3 - BSD-3-Clause
+
+
+
+79. qs 6.11.0 - BSD-3-Clause
+
+
+
+80. react-transition-group 2.9.0 - BSD-3-Clause
+
+
+
+81. react-transition-group 4.4.5 - BSD-3-Clause
+
+
+
+82. rst-selector-parser 2.2.3 - BSD-3-Clause
+
+
+
+83. serialize-javascript 6.0.1 - BSD-3-Clause
+
+
+
+84. signedsource 1.0.0 - BSD-3-Clause
+
+85. source-map 0.6.1 - BSD-3-Clause
+
+
+
+86. source-map-js 1.0.2 - BSD-3-Clause
+
+
+
+87. sha.js 2.4.11 - BSD-3-Clause AND MIT
+
+
+
+88. mdn-data 2.0.14 - CC0-1.0
+
+89. railroad-diagrams 1.0.0 - CC0-1.0
+
+90. string-hash 1.1.3 - CC0-1.0
+
+91. caniuse-lite 1.0.30001562 - CC-BY-4.0
+
+92. pngquant-bin 6.0.1 - GPL-3.0+
+
+93. @trysound/sax 0.2.0 - ISC
+
+
+
+94. anymatch 3.1.2 - ISC
+
+
+
+95. boolbase 1.0.0 - ISC
+
+96. cliui 5.0.0 - ISC
+
+
+
+97. cliui 6.0.0 - ISC
+
+
+
+98. cliui 7.0.4 - ISC
+
+
+
+99. color-support 1.1.3 - ISC
+
+
+
+100. electron-to-chromium 1.4.582 - ISC
+
+
+
+101. ext 1.4.0 - ISC
+
+102. fastq 1.11.0 - ISC
+
+
+
+103. fs.realpath 1.0.0 - ISC
+
+
+
+104. get-caller-file 2.0.5 - ISC
+
+
+
+105. glob 7.2.0 - ISC
+
+
+
+106. glob-parent 6.0.2 - ISC
+
+
+
+107. graceful-fs 4.1.15 - ISC
+
+
+
+108. graceful-fs 4.2.10 - ISC
+
+
+
+109. icss-utils 5.1.0 - ISC
+
+
+
+110. idb 5.0.0 - ISC
+
+
+
+111. idb 6.1.5 - ISC
+
+
+
+112. inflight 1.0.6 - ISC
+
+
+
+113. inherits 2.0.4 - ISC
+
+
+
+114. ini 1.3.8 - ISC
+
+
+
+115. ini 2.0.0 - ISC
+
+
+
+116. is-cwebp-readable 3.0.0 - ISC
+
+
+
+117. isexe 2.0.0 - ISC
+
+
+
+118. json-stringify-safe 5.0.1 - ISC
+
+
+
+119. killable 1.0.1 - ISC
+
+
+
+120. lru-cache 4.1.5 - ISC
+
+
+
+121. lru-cache 5.1.1 - ISC
+
+
+
+122. lru-cache 6.0.0 - ISC
+
+
+
+123. lz4js 0.2.0 - ISC
+
+124. make-error 1.3.6 - ISC
+
+
+
+125. minimatch 3.0.5 - ISC
+
+
+
+126. once 1.4.0 - ISC
+
+
+
+127. picocolors 1.0.0 - ISC
+
+
+
+128. postcss-modules-extract-imports 3.0.0 - ISC
+
+
+
+129. postcss-modules-scope 3.0.0 - ISC
+
+
+
+130. postcss-modules-values 4.0.0 - ISC
+
+
+
+131. proto-list 1.2.4 - ISC
+
+
+
+132. pseudomap 1.0.2 - ISC
+
+
+
+133. quickselect 1.1.1 - ISC
+
+134. remove-trailing-separator 1.1.0 - ISC
+
+135. require-main-filename 2.0.0 - ISC
+
+
+
+136. rimraf 2.6.3 - ISC
+
+
+
+137. sax 1.2.4 - ISC
+
+
+
+138. semver 5.7.2 - ISC
+
+
+
+139. semver 6.3.1 - ISC
+
+
+
+140. semver 7.2.1 - ISC
+
+
+
+141. semver 7.5.4 - ISC
+
+
+
+142. set-blocking 2.0.0 - ISC
+
+
+
+143. setprototypeof 1.2.0 - ISC
+
+
+
+144. signal-exit 3.0.7 - ISC
+
+
+
+145. tinyqueue 2.0.3 - ISC
+
+
+
+146. type 2.5.0 - ISC
+
+147. which 1.3.1 - ISC
+
+
+
+148. which 2.0.2 - ISC
+
+
+
+149. which-module 2.0.0 - ISC
+
+
+
+150. wrappy 1.0.2 - ISC
+
+
+
+151. y18n 4.0.3 - ISC
+
+
+
+152. y18n 5.0.8 - ISC
+
+
+
+153. yallist 2.1.2 - ISC
+
+
+
+154. yallist 3.1.1 - ISC
+
+
+
+155. yallist 4.0.0 - ISC
+
+
+
+156. yaml 1.10.2 - ISC
+
+
+
+157. yargs-parser 13.1.2 - ISC
+
+
+
+158. yargs-parser 18.1.3 - ISC
+
+
+
+159. yargs-parser 20.2.4 - ISC
+
+
+
+160. string-similarity 4.0.4 - ISC AND MIT
+
+
+
+161. jschardet 3.0.0 - LGPL-2.1 AND LGPL-2.1+
+
+
+
+162. @apollo/client 3.5.8 - MIT
+
+163. @apollo/client 3.8.6 - MIT
+
+
+
+164. @apollo/react-common 3.1.4 - MIT
+
+
+
+165. @apollo/react-components 3.1.5 - MIT
+
+
+
+166. @apollo/react-hoc 3.1.5 - MIT
+
+
+
+167. @apollo/react-hooks 3.1.5 - MIT
+
+
+
+168. @apollo/react-hooks 4.0.0 - MIT
+
+
+
+169. @apollo/react-ssr 3.1.5 - MIT
+
+
+
+170. @azure/abort-controller 1.1.0 - MIT
+
+
+
+171. @azure/core-auth 1.5.0 - MIT
+
+
+
+172. @azure/core-client 1.7.3 - MIT
+
+
+
+173. @azure/core-rest-pipeline 1.12.1 - MIT
+
+
+
+174. @azure/core-tracing 1.0.1 - MIT
+
+
+
+175. @azure/core-util 1.5.0 - MIT
+
+
+
+176. @azure/core-util 1.6.1 - MIT
+
+
+
+177. @azure/logger 1.0.4 - MIT
+
+
+
+178. @azure/msal-browser 2.22.0 - MIT
+
+
+
+179. @azure/msal-browser 2.28.1 - MIT
+
+
+
+180. @azure/msal-browser 2.38.2 - MIT
+
+
+
+181. @azure/msal-browser 3.4.0 - MIT
+
+
+
+182. @azure/msal-common 13.0.0 - MIT
+
+
+
+183. @azure/msal-common 13.3.0 - MIT
+
+
+
+184. @azure/msal-common 14.3.0 - MIT
+
+
+
+185. @azure/msal-common 6.4.0 - MIT
+
+
+
+186. @azure/msal-common 7.6.0 - MIT
+
+
+
+187. @azure/ms-rest-js 2.7.0 - MIT
+
+
+
+188. @azure/web-pubsub-client 1.0.0-beta.3 - MIT
+
+
+
+189. @babel/code-frame 7.23.5 - MIT
+
+
+
+190. @babel/compat-data 7.23.5 - MIT
+
+191. @babel/core 7.23.5 - MIT
+
+
+
+192. @babel/generator 7.23.5 - MIT
+
+
+
+193. @babel/helper-annotate-as-pure 7.22.5 - MIT
+
+
+
+194. @babel/helper-compilation-targets 7.22.15 - MIT
+
+195. @babel/helper-create-class-features-plugin 7.22.15 - MIT
+
+196. @babel/helper-environment-visitor 7.22.20 - MIT
+
+
+
+197. @babel/helper-function-name 7.23.0 - MIT
+
+
+
+198. @babel/helper-hoist-variables 7.22.5 - MIT
+
+
+
+199. @babel/helper-member-expression-to-functions 7.23.0 - MIT
+
+
+
+200. @babel/helper-module-imports 7.22.15 - MIT
+
+
+
+201. @babel/helper-module-transforms 7.23.3 - MIT
+
+
+
+202. @babel/helper-optimise-call-expression 7.22.5 - MIT
+
+
+
+203. @babel/helper-plugin-utils 7.22.5 - MIT
+
+
+
+204. @babel/helper-replace-supers 7.22.20 - MIT
+
+
+
+205. @babel/helpers 7.23.5 - MIT
+
+
+
+206. @babel/helper-simple-access 7.22.5 - MIT
+
+
+
+207. @babel/helper-skip-transparent-expression-wrappers 7.22.5 - MIT
+
+208. @babel/helper-split-export-declaration 7.22.6 - MIT
+
+
+
+209. @babel/helper-string-parser 7.23.4 - MIT
+
+
+
+210. @babel/helper-validator-identifier 7.22.20 - MIT
+
+211. @babel/helper-validator-option 7.23.5 - MIT
+
+212. @babel/highlight 7.23.4 - MIT
+
+
+
+213. @babel/parser 7.23.5 - MIT
+
+
+
+214. @babel/plugin-proposal-class-properties 7.18.6 - MIT
+
+
+
+215. @babel/plugin-proposal-object-rest-spread 7.18.0 - MIT
+
+
+
+216. @babel/plugin-syntax-class-properties 7.12.13 - MIT
+
+
+
+217. @babel/plugin-syntax-flow 7.23.3 - MIT
+
+
+
+218. @babel/plugin-syntax-jsx 7.23.3 - MIT
+
+
+
+219. @babel/plugin-syntax-object-rest-spread 7.8.3 - MIT
+
+220. @babel/plugin-transform-arrow-functions 7.23.3 - MIT
+
+
+
+221. @babel/plugin-transform-block-scoped-functions 7.23.3 - MIT
+
+
+
+222. @babel/plugin-transform-block-scoping 7.23.4 - MIT
+
+
+
+223. @babel/plugin-transform-classes 7.23.5 - MIT
+
+
+
+224. @babel/plugin-transform-computed-properties 7.23.3 - MIT
+
+
+
+225. @babel/plugin-transform-destructuring 7.23.3 - MIT
+
+
+
+226. @babel/plugin-transform-flow-strip-types 7.23.3 - MIT
+
+
+
+227. @babel/plugin-transform-for-of 7.23.3 - MIT
+
+
+
+228. @babel/plugin-transform-function-name 7.23.3 - MIT
+
+
+
+229. @babel/plugin-transform-literals 7.23.3 - MIT
+
+
+
+230. @babel/plugin-transform-member-expression-literals 7.23.3 - MIT
+
+
+
+231. @babel/plugin-transform-modules-commonjs 7.23.3 - MIT
+
+
+
+232. @babel/plugin-transform-object-super 7.23.3 - MIT
+
+
+
+233. @babel/plugin-transform-parameters 7.23.3 - MIT
+
+
+
+234. @babel/plugin-transform-property-literals 7.23.3 - MIT
+
+
+
+235. @babel/plugin-transform-react-display-name 7.23.3 - MIT
+
+
+
+236. @babel/plugin-transform-react-jsx 7.22.15 - MIT
+
+
+
+237. @babel/plugin-transform-shorthand-properties 7.23.3 - MIT
+
+
+
+238. @babel/plugin-transform-spread 7.23.3 - MIT
+
+
+
+239. @babel/plugin-transform-template-literals 7.23.3 - MIT
+
+
+
+240. @babel/polyfill 7.12.1 - MIT
+
+
+
+241. @babel/runtime 7.23.4 - MIT
+
+
+
+242. @babel/runtime-corejs3 7.14.0 - MIT
+
+243. @babel/template 7.22.15 - MIT
+
+
+
+244. @babel/traverse 7.23.5 - MIT
+
+
+
+245. @babel/types 7.23.5 - MIT
+
+
+
+246. @cspotcode/source-map-support 0.8.1 - MIT
+
+
+
+247. @ctrl/tinycolor 3.3.4 - MIT
+
+
+
+248. @discoveryjs/json-ext 0.5.7 - MIT
+
+
+
+249. @dnd-kit/accessibility 3.0.1 - MIT
+
+
+
+250. @dnd-kit/core 6.0.5 - MIT
+
+
+
+251. @dnd-kit/modifiers 6.0.0 - MIT
+
+
+
+252. @dnd-kit/sortable 7.0.1 - MIT
+
+
+
+253. @dnd-kit/utilities 3.2.0 - MIT
+
+
+
+254. @emotion/hash 0.9.1 - MIT
+
+
+
+255. @fastify/busboy 2.1.0 - MIT
+
+
+
+256. @floating-ui/core 1.5.0 - MIT
+
+
+
+257. @floating-ui/dom 1.5.3 - MIT
+
+
+
+258. @floating-ui/utils 0.1.6 - MIT
+
+
+
+259. @fluentui/common-styles 1.2.35 - MIT
+
+260. @fluentui/date-time-utilities 7.9.1 - MIT
+
+
+
+261. @fluentui/date-time-utilities 8.5.14 - MIT
+
+
+
+262. @fluentui/dom-utilities 1.1.2 - MIT
+
+
+
+263. @fluentui/dom-utilities 2.2.12 - MIT
+
+
+
+264. @fluentui/example-data 8.4.13 - MIT
+
+
+
+265. @fluentui/fluent2-theme 8.107.51 - MIT
+
+
+
+266. @fluentui/font-icons-mdl2 8.5.27 - MIT
+
+
+
+267. @fluentui/foundation-legacy 8.2.47 - MIT
+
+
+
+268. @fluentui/keyboard-key 0.2.17 - MIT
+
+
+
+269. @fluentui/keyboard-key 0.4.12 - MIT
+
+
+
+270. @fluentui/keyboard-keys 9.0.7 - MIT
+
+
+
+271. @fluentui/merge-styles 8.5.13 - MIT
+
+
+
+272. @fluentui/priority-overflow 9.1.7 - MIT
+
+
+
+273. @fluentui/react 7.168.2 - MIT
+
+274. @fluentui/react 8.112.9 - MIT
+
+
+
+275. @fluentui/react-accordion 9.3.22 - MIT
+
+
+
+276. @fluentui/react-alert 9.0.0-beta.86 - MIT
+
+
+
+277. @fluentui/react-aria 9.3.42 - MIT
+
+
+
+278. @fluentui/react-avatar 9.5.40 - MIT
+
+
+
+279. @fluentui/react-badge 9.2.9 - MIT
+
+
+
+280. @fluentui/react-breadcrumb-preview 0.3.2 - MIT
+
+
+
+281. @fluentui/react-button 9.3.49 - MIT
+
+
+
+282. @fluentui/react-card 9.0.48 - MIT
+
+
+
+283. @fluentui/react-checkbox 9.1.50 - MIT
+
+
+
+284. @fluentui/react-combobox 9.5.24 - MIT
+
+
+
+285. @fluentui/react-components 9.35.0 - MIT
+
+
+
+286. @fluentui/react-context-selector 9.1.40 - MIT
+
+
+
+287. @fluentui/react-dialog 9.7.9 - MIT
+
+
+
+288. @fluentui/react-divider 9.2.45 - MIT
+
+
+
+289. @fluentui/react-drawer 9.0.0-beta.35 - MIT
+
+
+
+290. @fluentui/react-field 9.1.37 - MIT
+
+
+
+291. @fluentui/react-file-type-icons 8.10.2 - MIT
+
+
+
+292. @fluentui/react-focus 7.18.17 - MIT
+
+
+
+293. @fluentui/react-focus 8.8.34 - MIT
+
+
+
+294. @fluentui/react-hooks 8.6.33 - MIT
+
+
+
+295. @fluentui/react-icon-provider 1.3.48 - MIT
+
+
+
+296. @fluentui/react-icons 2.0.221 - MIT
+
+297. @fluentui/react-icons-mdl2 1.3.52 - MIT
+
+
+
+298. @fluentui/react-image 9.1.42 - MIT
+
+
+
+299. @fluentui/react-infobutton 9.0.0-beta.70 - MIT
+
+
+
+300. @fluentui/react-input 9.4.47 - MIT
+
+
+
+301. @fluentui/react-jsx-runtime 9.0.17 - MIT
+
+
+
+302. @fluentui/react-label 9.1.45 - MIT
+
+
+
+303. @fluentui/react-link 9.1.28 - MIT
+
+
+
+304. @fluentui/react-menu 9.12.26 - MIT
+
+
+
+305. @fluentui/react-message-bar 9.0.0 - MIT
+
+
+
+306. @fluentui/react-migration-v8-v9 9.3.6 - MIT
+
+
+
+307. @fluentui/react-motion-preview 0.3.3 - MIT
+
+
+
+308. @fluentui/react-overflow 9.0.39 - MIT
+
+
+
+309. @fluentui/react-persona 9.2.50 - MIT
+
+
+
+310. @fluentui/react-popover 9.8.15 - MIT
+
+
+
+311. @fluentui/react-portal 9.3.23 - MIT
+
+
+
+312. @fluentui/react-portal-compat 9.0.67 - MIT
+
+
+
+313. @fluentui/react-portal-compat-context 9.0.10 - MIT
+
+
+
+314. @fluentui/react-positioning 9.9.20 - MIT
+
+
+
+315. @fluentui/react-progress 9.1.47 - MIT
+
+
+
+316. @fluentui/react-provider 9.10.7 - MIT
+
+
+
+317. @fluentui/react-radio 9.1.50 - MIT
+
+
+
+318. @fluentui/react-select 9.1.47 - MIT
+
+
+
+319. @fluentui/react-shared-contexts 9.10.0 - MIT
+
+
+
+320. @fluentui/react-skeleton 9.0.35 - MIT
+
+
+
+321. @fluentui/react-slider 9.1.50 - MIT
+
+
+
+322. @fluentui/react-spinbutton 9.2.47 - MIT
+
+
+
+323. @fluentui/react-spinner 9.3.25 - MIT
+
+
+
+324. @fluentui/react-switch 9.1.50 - MIT
+
+
+
+325. @fluentui/react-table 9.10.5 - MIT
+
+
+
+326. @fluentui/react-tabs 9.3.51 - MIT
+
+
+
+327. @fluentui/react-tabster 9.13.6 - MIT
+
+
+
+328. @fluentui/react-tags 9.0.4 - MIT
+
+
+
+329. @fluentui/react-text 9.3.42 - MIT
+
+
+
+330. @fluentui/react-textarea 9.3.47 - MIT
+
+
+
+331. @fluentui/react-theme 9.1.16 - MIT
+
+
+
+332. @fluentui/react-toast 9.3.11 - MIT
+
+
+
+333. @fluentui/react-toolbar 9.1.50 - MIT
+
+
+
+334. @fluentui/react-tooltip 9.3.16 - MIT
+
+
+
+335. @fluentui/react-tree 9.4.5 - MIT
+
+
+
+336. @fluentui/react-utilities 9.15.2 - MIT
+
+
+
+337. @fluentui/react-virtualizer 9.0.0-alpha.51 - MIT
+
+
+
+338. @fluentui/react-window-provider 1.0.6 - MIT
+
+
+
+339. @fluentui/react-window-provider 2.2.16 - MIT
+
+
+
+340. @fluentui/scheme-utilities 8.3.37 - MIT
+
+
+
+341. @fluentui/set-version 8.2.12 - MIT
+
+
+
+342. @fluentui/style-utilities 8.9.20 - MIT
+
+
+
+343. @fluentui/theme 1.7.13 - MIT
+
+
+
+344. @fluentui/theme 2.6.38 - MIT
+
+
+
+345. @fluentui/tokens 1.0.0-alpha.13 - MIT
+
+
+
+346. @fluentui/utilities 7.38.2 - MIT
+
+
+
+347. @fluentui/utilities 8.13.21 - MIT
+
+
+
+348. @fluid-experimental/oldest-client-observer 2.0.0-internal.6.4.0 - MIT
+
+
+
+349. @fluid-experimental/tree 0.52.1 - MIT
+
+
+
+350. @fluid-experimental/tree 2.0.0-internal.4.3.0 - MIT
+
+
+
+351. @fluidframework/agent-scheduler 2.0.0-internal.6.4.0 - MIT
+
+
+
+352. @fluidframework/aqueduct 0.45.4 - MIT
+
+
+
+353. @fluidframework/aqueduct 0.49.2 - MIT
+
+
+
+354. @fluidframework/aqueduct 0.52.1 - MIT
+
+
+
+355. @fluidframework/aqueduct 2.0.0-internal.4.3.0 - MIT
+
+
+
+356. @fluidframework/aqueduct 2.0.0-internal.6.4.0 - MIT
+
+
+
+357. @fluidframework/aqueduct 2.0.0-internal.7.2.2 - MIT
+
+
+
+358. @fluidframework/common-definitions 0.20.1 - MIT
+
+
+
+359. @fluidframework/common-definitions 1.0.0 - MIT
+
+
+
+360. @fluidframework/common-utils 0.32.1 - MIT
+
+
+
+361. @fluidframework/common-utils 1.1.1 - MIT
+
+362. @fluidframework/common-utils 3.0.0 - MIT
+
+
+
+363. @fluidframework/container-definitions 2.0.0-internal.6.4.0 - MIT
+
+
+
+364. @fluidframework/container-loader 0.45.4 - MIT
+
+
+
+365. @fluidframework/container-loader 0.49.2 - MIT
+
+
+
+366. @fluidframework/container-loader 0.52.1 - MIT
+
+
+
+367. @fluidframework/container-loader 2.0.0-internal.4.3.0 - MIT
+
+
+
+368. @fluidframework/container-loader 2.0.0-internal.6.4.0 - MIT
+
+
+
+369. @fluidframework/container-loader 2.0.0-internal.7.3.0 - MIT
+
+
+
+370. @fluidframework/container-runtime 0.45.4 - MIT
+
+
+
+371. @fluidframework/container-runtime 0.49.2 - MIT
+
+
+
+372. @fluidframework/container-runtime 0.52.1 - MIT
+
+
+
+373. @fluidframework/container-runtime 2.0.0-internal.4.3.0 - MIT
+
+
+
+374. @fluidframework/container-runtime 2.0.0-internal.4.4.4 - MIT
+
+
+
+375. @fluidframework/container-runtime 2.0.0-internal.6.3.3 - MIT
+
+
+
+376. @fluidframework/container-runtime 2.0.0-internal.6.4.0 - MIT
+
+
+
+377. @fluidframework/container-runtime 2.0.0-internal.7.2.2 - MIT
+
+
+
+378. @fluidframework/container-runtime 2.0.0-internal.7.3.0 - MIT
+
+
+
+379. @fluidframework/container-runtime-definitions 0.45.4 - MIT
+
+
+
+380. @fluidframework/container-runtime-definitions 0.49.2 - MIT
+
+
+
+381. @fluidframework/container-runtime-definitions 0.52.1 - MIT
+
+
+
+382. @fluidframework/container-runtime-definitions 2.0.0-internal.4.3.0 - MIT
+
+
+
+383. @fluidframework/container-runtime-definitions 2.0.0-internal.4.4.4 - MIT
+
+
+
+384. @fluidframework/container-runtime-definitions 2.0.0-internal.6.3.3 - MIT
+
+
+
+385. @fluidframework/container-runtime-definitions 2.0.0-internal.6.4.0 - MIT
+
+
+
+386. @fluidframework/container-runtime-definitions 2.0.0-internal.7.2.2 - MIT
+
+
+
+387. @fluidframework/container-runtime-definitions 2.0.0-internal.7.3.0 - MIT
+
+
+
+388. @fluidframework/container-utils 0.45.4 - MIT
+
+
+
+389. @fluidframework/container-utils 0.49.2 - MIT
+
+
+
+390. @fluidframework/container-utils 0.52.1 - MIT
+
+
+
+391. @fluidframework/container-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+392. @fluidframework/container-utils 2.0.0-internal.4.4.4 - MIT
+
+
+
+393. @fluidframework/container-utils 2.0.0-internal.6.3.3 - MIT
+
+
+
+394. @fluidframework/container-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+395. @fluidframework/core-interfaces 0.39.8 - MIT
+
+
+
+396. @fluidframework/core-interfaces 0.41.0 - MIT
+
+
+
+397. @fluidframework/core-interfaces 2.0.0-internal.4.3.2 - MIT
+
+
+
+398. @fluidframework/core-interfaces 2.0.0-internal.4.4.4 - MIT
+
+
+
+399. @fluidframework/core-interfaces 2.0.0-internal.6.3.4 - MIT
+
+
+
+400. @fluidframework/core-interfaces 2.0.0-internal.6.4.0 - MIT
+
+
+
+401. @fluidframework/core-interfaces 2.0.0-internal.7.2.1 - MIT
+
+
+
+402. @fluidframework/core-interfaces 2.0.0-internal.7.2.2 - MIT
+
+
+
+403. @fluidframework/core-interfaces 2.0.0-internal.7.3.0 - MIT
+
+
+
+404. @fluidframework/core-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+405. @fluidframework/core-utils 2.0.0-internal.6.3.3 - MIT
+
+
+
+406. @fluidframework/core-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+407. @fluidframework/core-utils 2.0.0-internal.7.2.2 - MIT
+
+
+
+408. @fluidframework/core-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+409. @fluidframework/datastore 0.45.4 - MIT
+
+410. @fluidframework/datastore 0.49.2 - MIT
+
+411. @fluidframework/datastore 0.52.1 - MIT
+
+
+
+412. @fluidframework/datastore 2.0.0-internal.4.3.0 - MIT
+
+
+
+413. @fluidframework/datastore 2.0.0-internal.4.4.4 - MIT
+
+
+
+414. @fluidframework/datastore 2.0.0-internal.6.3.3 - MIT
+
+
+
+415. @fluidframework/datastore 2.0.0-internal.6.4.0 - MIT
+
+
+
+416. @fluidframework/datastore 2.0.0-internal.7.2.2 - MIT
+
+
+
+417. @fluidframework/datastore 2.0.0-internal.7.3.0 - MIT
+
+
+
+418. @fluidframework/datastore-definitions 0.45.4 - MIT
+
+
+
+419. @fluidframework/datastore-definitions 0.49.2 - MIT
+
+
+
+420. @fluidframework/datastore-definitions 0.52.1 - MIT
+
+
+
+421. @fluidframework/datastore-definitions 2.0.0-internal.4.3.0 - MIT
+
+
+
+422. @fluidframework/datastore-definitions 2.0.0-internal.4.4.4 - MIT
+
+
+
+423. @fluidframework/datastore-definitions 2.0.0-internal.6.3.3 - MIT
+
+
+
+424. @fluidframework/datastore-definitions 2.0.0-internal.6.4.0 - MIT
+
+
+
+425. @fluidframework/datastore-definitions 2.0.0-internal.7.2.2 - MIT
+
+
+
+426. @fluidframework/datastore-definitions 2.0.0-internal.7.3.0 - MIT
+
+
+
+427. @fluidframework/dds-interceptions 2.0.0-internal.6.3.3 - MIT
+
+
+
+428. @fluidframework/debugger 2.0.0-internal.6.4.0 - MIT
+
+
+
+429. @fluidframework/debugger 2.0.0-internal.7.3.0 - MIT
+
+
+
+430. @fluidframework/driver-base 0.49.2 - MIT
+
+
+
+431. @fluidframework/driver-base 2.0.0-internal.4.3.0 - MIT
+
+
+
+432. @fluidframework/driver-base 2.0.0-internal.4.4.4 - MIT
+
+
+
+433. @fluidframework/driver-base 2.0.0-internal.6.4.0 - MIT
+
+
+
+434. @fluidframework/driver-base 2.0.0-internal.7.3.0 - MIT
+
+
+
+435. @fluidframework/driver-definitions 0.39.8 - MIT
+
+
+
+436. @fluidframework/driver-definitions 0.40.0 - MIT
+
+
+
+437. @fluidframework/driver-definitions 0.42.0 - MIT
+
+
+
+438. @fluidframework/driver-definitions 2.0.0-internal.4.3.2 - MIT
+
+
+
+439. @fluidframework/driver-definitions 2.0.0-internal.4.4.4 - MIT
+
+
+
+440. @fluidframework/driver-definitions 2.0.0-internal.6.3.4 - MIT
+
+
+
+441. @fluidframework/driver-definitions 2.0.0-internal.6.4.0 - MIT
+
+
+
+442. @fluidframework/driver-definitions 2.0.0-internal.7.2.1 - MIT
+
+
+
+443. @fluidframework/driver-definitions 2.0.0-internal.7.2.2 - MIT
+
+
+
+444. @fluidframework/driver-definitions 2.0.0-internal.7.3.0 - MIT
+
+
+
+445. @fluidframework/driver-utils 0.45.4 - MIT
+
+
+
+446. @fluidframework/driver-utils 0.49.2 - MIT
+
+
+
+447. @fluidframework/driver-utils 0.52.1 - MIT
+
+
+
+448. @fluidframework/driver-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+449. @fluidframework/driver-utils 2.0.0-internal.4.4.4 - MIT
+
+
+
+450. @fluidframework/driver-utils 2.0.0-internal.6.3.3 - MIT
+
+
+
+451. @fluidframework/driver-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+452. @fluidframework/driver-utils 2.0.0-internal.7.2.1 - MIT
+
+
+
+453. @fluidframework/driver-utils 2.0.0-internal.7.2.2 - MIT
+
+
+
+454. @fluidframework/driver-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+455. @fluidframework/driver-web-cache 2.0.0-internal.4.4.1 - MIT
+
+
+
+456. @fluidframework/driver-web-cache 2.0.0-internal.6.4.0 - MIT
+
+
+
+457. @fluidframework/driver-web-cache 2.0.0-internal.7.2.0 - MIT
+
+
+
+458. @fluidframework/garbage-collector 0.45.4 - MIT
+
+
+
+459. @fluidframework/garbage-collector 0.49.2 - MIT
+
+
+
+460. @fluidframework/garbage-collector 0.52.1 - MIT
+
+
+
+461. @fluidframework/garbage-collector 2.0.0-internal.4.3.0 - MIT
+
+
+
+462. @fluidframework/garbage-collector 2.0.0-internal.4.4.4 - MIT
+
+
+
+463. @fluidframework/gitresources 0.1028.1 - MIT
+
+464. @fluidframework/gitresources 0.1032.0 - MIT
+
+
+
+465. @fluidframework/gitresources 0.1034.0 - MIT
+
+
+
+466. @fluidframework/gitresources 0.1039.1000 - MIT
+
+
+
+467. @fluidframework/gitresources 0.1040.1000 - MIT
+
+
+
+468. @fluidframework/gitresources 1.0.1 - MIT
+
+
+
+469. @fluidframework/gitresources 2.0.2 - MIT
+
+
+
+470. @fluidframework/local-driver 2.0.0-internal.4.3.0 - MIT
+
+
+
+471. @fluidframework/location-redirection-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+472. @fluidframework/location-redirection-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+473. @fluidframework/map 0.45.4 - MIT
+
+
+
+474. @fluidframework/map 0.49.2 - MIT
+
+
+
+475. @fluidframework/map 0.52.1 - MIT
+
+
+
+476. @fluidframework/map 2.0.0-internal.4.3.0 - MIT
+
+
+
+477. @fluidframework/map 2.0.0-internal.4.4.4 - MIT
+
+
+
+478. @fluidframework/map 2.0.0-internal.6.3.3 - MIT
+
+
+
+479. @fluidframework/map 2.0.0-internal.6.4.0 - MIT
+
+
+
+480. @fluidframework/map 2.0.0-internal.7.2.2 - MIT
+
+
+
+481. @fluidframework/merge-tree 0.49.2 - MIT
+
+482. @fluidframework/merge-tree 2.0.0-internal.6.3.3 - MIT
+
+
+
+483. @fluidframework/merge-tree 2.0.0-internal.6.4.0 - MIT
+
+
+
+484. @fluidframework/merge-tree 2.0.0-internal.7.3.0 - MIT
+
+
+
+485. @fluidframework/odsp-doclib-utils 0.49.2 - MIT
+
+
+
+486. @fluidframework/odsp-doclib-utils 2.0.0-internal.4.4.4 - MIT
+
+
+
+487. @fluidframework/odsp-doclib-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+488. @fluidframework/odsp-doclib-utils 2.0.0-internal.7.2.1 - MIT
+
+
+
+489. @fluidframework/odsp-doclib-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+490. @fluidframework/odsp-driver 0.49.2 - MIT
+
+
+
+491. @fluidframework/odsp-driver 2.0.0-internal.4.4.4 - MIT
+
+
+
+492. @fluidframework/odsp-driver 2.0.0-internal.6.4.0 - MIT
+
+
+
+493. @fluidframework/odsp-driver 2.0.0-internal.7.3.0 - MIT
+
+
+
+494. @fluidframework/odsp-driver-definitions 0.49.2 - MIT
+
+495. @fluidframework/odsp-driver-definitions 2.0.0-internal.4.4.4 - MIT
+
+
+
+496. @fluidframework/odsp-driver-definitions 2.0.0-internal.6.4.0 - MIT
+
+
+
+497. @fluidframework/odsp-driver-definitions 2.0.0-internal.7.2.1 - MIT
+
+
+
+498. @fluidframework/odsp-driver-definitions 2.0.0-internal.7.3.0 - MIT
+
+
+
+499. @fluidframework/protocol-base 0.1028.1 - MIT
+
+500. @fluidframework/protocol-base 0.1032.0 - MIT
+
+
+
+501. @fluidframework/protocol-base 0.1034.0 - MIT
+
+
+
+502. @fluidframework/protocol-base 0.1039.1000 - MIT
+
+
+
+503. @fluidframework/protocol-base 0.1040.1000 - MIT
+
+
+
+504. @fluidframework/protocol-base 1.0.1 - MIT
+
+
+
+505. @fluidframework/protocol-base 2.0.2 - MIT
+
+
+
+506. @fluidframework/protocol-definitions 0.1024.0 - MIT
+
+
+
+507. @fluidframework/protocol-definitions 0.1025.1 - MIT
+
+
+
+508. @fluidframework/protocol-definitions 0.1026.0 - MIT
+
+
+
+509. @fluidframework/protocol-definitions 1.2.0 - MIT
+
+
+
+510. @fluidframework/protocol-definitions 3.0.0 - MIT
+
+
+
+511. @fluidframework/register-collection 0.52.1 - MIT
+
+
+
+512. @fluidframework/register-collection 2.0.0-internal.4.3.0 - MIT
+
+
+
+513. @fluidframework/register-collection 2.0.0-internal.6.4.0 - MIT
+
+
+
+514. @fluidframework/replay-driver 2.0.0-internal.6.4.0 - MIT
+
+
+
+515. @fluidframework/replay-driver 2.0.0-internal.7.3.0 - MIT
+
+
+
+516. @fluidframework/request-handler 0.45.4 - MIT
+
+
+
+517. @fluidframework/request-handler 0.49.2 - MIT
+
+
+
+518. @fluidframework/request-handler 0.52.1 - MIT
+
+
+
+519. @fluidframework/request-handler 2.0.0-internal.4.3.0 - MIT
+
+
+
+520. @fluidframework/request-handler 2.0.0-internal.4.4.1 - MIT
+
+
+
+521. @fluidframework/request-handler 2.0.0-internal.6.4.0 - MIT
+
+
+
+522. @fluidframework/request-handler 2.0.0-internal.7.2.2 - MIT
+
+
+
+523. @fluidframework/routerlicious-driver 0.49.2 - MIT
+
+524. @fluidframework/routerlicious-driver 2.0.0-internal.4.3.0 - MIT
+
+
+
+525. @fluidframework/routerlicious-driver 2.0.0-internal.6.4.0 - MIT
+
+
+
+526. @fluidframework/runtime-definitions 0.45.4 - MIT
+
+
+
+527. @fluidframework/runtime-definitions 0.49.2 - MIT
+
+
+
+528. @fluidframework/runtime-definitions 0.52.1 - MIT
+
+
+
+529. @fluidframework/runtime-definitions 2.0.0-internal.4.3.0 - MIT
+
+
+
+530. @fluidframework/runtime-definitions 2.0.0-internal.4.4.4 - MIT
+
+
+
+531. @fluidframework/runtime-definitions 2.0.0-internal.6.3.3 - MIT
+
+
+
+532. @fluidframework/runtime-definitions 2.0.0-internal.6.4.0 - MIT
+
+
+
+533. @fluidframework/runtime-definitions 2.0.0-internal.7.2.2 - MIT
+
+
+
+534. @fluidframework/runtime-definitions 2.0.0-internal.7.3.0 - MIT
+
+
+
+535. @fluidframework/runtime-utils 0.45.4 - MIT
+
+
+
+536. @fluidframework/runtime-utils 0.49.2 - MIT
+
+537. @fluidframework/runtime-utils 0.52.1 - MIT
+
+
+
+538. @fluidframework/runtime-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+539. @fluidframework/runtime-utils 2.0.0-internal.4.4.4 - MIT
+
+
+
+540. @fluidframework/runtime-utils 2.0.0-internal.6.3.3 - MIT
+
+
+
+541. @fluidframework/runtime-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+542. @fluidframework/runtime-utils 2.0.0-internal.7.2.2 - MIT
+
+
+
+543. @fluidframework/runtime-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+544. @fluidframework/sequence 0.49.2 - MIT
+
+545. @fluidframework/sequence 2.0.0-internal.6.3.3 - MIT
+
+
+
+546. @fluidframework/sequence 2.0.0-internal.6.4.0 - MIT
+
+
+
+547. @fluidframework/sequence 2.0.0-internal.7.3.0 - MIT
+
+
+
+548. @fluidframework/server-lambdas 0.1039.1000 - MIT
+
+
+
+549. @fluidframework/server-lambdas 0.1040.1000 - MIT
+
+
+
+550. @fluidframework/server-lambdas 1.0.1 - MIT
+
+
+
+551. @fluidframework/server-lambdas-driver 0.1039.1000 - MIT
+
+
+
+552. @fluidframework/server-lambdas-driver 0.1040.1000 - MIT
+
+
+
+553. @fluidframework/server-lambdas-driver 1.0.1 - MIT
+
+
+
+554. @fluidframework/server-local-server 0.1039.1000 - MIT
+
+
+
+555. @fluidframework/server-local-server 0.1040.1000 - MIT
+
+
+
+556. @fluidframework/server-local-server 1.0.1 - MIT
+
+
+
+557. @fluidframework/server-memory-orderer 0.1039.1000 - MIT
+
+
+
+558. @fluidframework/server-memory-orderer 0.1040.1000 - MIT
+
+
+
+559. @fluidframework/server-memory-orderer 1.0.1 - MIT
+
+
+
+560. @fluidframework/server-services-client 0.1032.0 - MIT
+
+
+
+561. @fluidframework/server-services-client 0.1039.1000 - MIT
+
+
+
+562. @fluidframework/server-services-client 0.1040.1000 - MIT
+
+
+
+563. @fluidframework/server-services-client 1.0.1 - MIT
+
+
+
+564. @fluidframework/server-services-core 0.1039.1000 - MIT
+
+
+
+565. @fluidframework/server-services-core 0.1040.1000 - MIT
+
+
+
+566. @fluidframework/server-services-core 1.0.1 - MIT
+
+
+
+567. @fluidframework/server-services-telemetry 0.1039.1000 - MIT
+
+
+
+568. @fluidframework/server-services-telemetry 0.1040.1000 - MIT
+
+
+
+569. @fluidframework/server-services-telemetry 1.0.1 - MIT
+
+
+
+570. @fluidframework/server-test-utils 0.1039.1000 - MIT
+
+
+
+571. @fluidframework/server-test-utils 0.1040.1000 - MIT
+
+
+
+572. @fluidframework/server-test-utils 1.0.1 - MIT
+
+
+
+573. @fluidframework/shared-object-base 0.45.4 - MIT
+
+
+
+574. @fluidframework/shared-object-base 0.49.2 - MIT
+
+
+
+575. @fluidframework/shared-object-base 0.52.1 - MIT
+
+
+
+576. @fluidframework/shared-object-base 2.0.0-internal.4.3.0 - MIT
+
+
+
+577. @fluidframework/shared-object-base 2.0.0-internal.4.4.4 - MIT
+
+
+
+578. @fluidframework/shared-object-base 2.0.0-internal.6.3.3 - MIT
+
+
+
+579. @fluidframework/shared-object-base 2.0.0-internal.6.4.0 - MIT
+
+
+
+580. @fluidframework/shared-object-base 2.0.0-internal.7.2.2 - MIT
+
+
+
+581. @fluidframework/shared-object-base 2.0.0-internal.7.3.0 - MIT
+
+
+
+582. @fluidframework/synthesize 0.45.4 - MIT
+
+
+
+583. @fluidframework/synthesize 0.49.2 - MIT
+
+
+
+584. @fluidframework/synthesize 0.52.1 - MIT
+
+
+
+585. @fluidframework/synthesize 2.0.0-internal.4.3.0 - MIT
+
+
+
+586. @fluidframework/synthesize 2.0.0-internal.6.4.0 - MIT
+
+
+
+587. @fluidframework/synthesize 2.0.0-internal.7.2.2 - MIT
+
+
+
+588. @fluidframework/telemetry-utils 0.45.4 - MIT
+
+
+
+589. @fluidframework/telemetry-utils 0.49.2 - MIT
+
+
+
+590. @fluidframework/telemetry-utils 0.52.1 - MIT
+
+
+
+591. @fluidframework/telemetry-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+592. @fluidframework/telemetry-utils 2.0.0-internal.4.4.4 - MIT
+
+
+
+593. @fluidframework/telemetry-utils 2.0.0-internal.6.3.3 - MIT
+
+
+
+594. @fluidframework/telemetry-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+595. @fluidframework/telemetry-utils 2.0.0-internal.7.2.1 - MIT
+
+
+
+596. @fluidframework/telemetry-utils 2.0.0-internal.7.2.2 - MIT
+
+
+
+597. @fluidframework/telemetry-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+598. @fluidframework/test-driver-definitions 2.0.0-internal.4.3.0 - MIT
+
+
+
+599. @fluidframework/test-runtime-utils 0.49.2 - MIT
+
+600. @fluidframework/test-runtime-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+601. @fluidframework/test-utils 2.0.0-internal.4.3.0 - MIT
+
+
+
+602. @fluidframework/view-interfaces 0.45.4 - MIT
+
+603. @fluidframework/view-interfaces 0.49.2 - MIT
+
+
+
+604. @fluidframework/view-interfaces 0.52.1 - MIT
+
+
+
+605. @fluidframework/view-interfaces 2.0.0-internal.4.3.0 - MIT
+
+
+
+606. @fluidframework/view-interfaces 2.0.0-internal.6.4.0 - MIT
+
+
+
+607. @fluidframework/view-interfaces 2.0.0-internal.7.2.2 - MIT
+
+
+
+608. @fluid-internal/client-utils 2.0.0-internal.6.3.3 - MIT
+
+
+
+609. @fluid-internal/client-utils 2.0.0-internal.6.4.0 - MIT
+
+
+
+610. @fluid-internal/client-utils 2.0.0-internal.7.2.2 - MIT
+
+
+
+611. @fluid-internal/client-utils 2.0.0-internal.7.3.0 - MIT
+
+
+
+612. @formatjs/ecma402-abstract 1.11.4 - MIT
+
+
+
+613. @formatjs/fast-memoize 1.2.1 - MIT
+
+614. @formatjs/icu-messageformat-parser 2.1.0 - MIT
+
+
+
+615. @formatjs/icu-skeleton-parser 1.3.6 - MIT
+
+
+
+616. @formatjs/intl-localematcher 0.2.25 - MIT
+
+
+
+617. @graphitation/graphql-js-tag 0.9.0 - MIT
+
+618. @graphql-typed-document-node/core 3.1.2 - MIT
+
+
+
+619. @griffel/core 1.15.1 - MIT
+
+
+
+620. @griffel/react 1.5.19 - MIT
+
+
+
+621. @griffel/style-types 1.0.2 - MIT
+
+
+
+622. @jest/types 26.6.2 - MIT
+
+
+
+623. @jridgewell/gen-mapping 0.3.2 - MIT
+
+
+
+624. @jridgewell/resolve-uri 3.1.0 - MIT
+
+
+
+625. @jridgewell/set-array 1.1.2 - MIT
+
+
+
+626. @jridgewell/source-map 0.3.5 - MIT
+
+
+
+627. @jridgewell/sourcemap-codec 1.4.15 - MIT
+
+
+
+628. @jridgewell/trace-mapping 0.3.20 - MIT
+
+
+
+629. @jridgewell/trace-mapping 0.3.9 - MIT
+
+
+
+630. @microsoft/1ds-core-js 3.2.13 - MIT
+
+
+
+631. @microsoft/1ds-core-js 3.2.2 - MIT
+
+
+
+632. @microsoft/1ds-post-js 3.2.13 - MIT
+
+
+
+633. @microsoft/1ds-post-js 3.2.2 - MIT
+
+
+
+634. @microsoft/applicationinsights-core-js 2.5.11 - MIT
+
+635. @microsoft/applicationinsights-core-js 2.8.15 - MIT
+
+
+
+636. @microsoft/applicationinsights-core-js 2.8.16 - MIT
+
+
+
+637. @microsoft/applicationinsights-core-js 2.8.3 - MIT
+
+638. @microsoft/applicationinsights-shims 1.0.3 - MIT
+
+639. @microsoft/applicationinsights-shims 2.0.1 - MIT
+
+
+
+640. @microsoft/applicationinsights-shims 2.0.2 - MIT
+
+
+
+641. @microsoft/dynamicproto-js 1.1.4 - MIT
+
+
+
+642. @microsoft/dynamicproto-js 1.1.9 - MIT
+
+
+
+643. @microsoft/load-themed-styles 1.10.292 - MIT
+
+
+
+644. @microsoft/microsoft-graph-client 2.2.1 - MIT
+
+
+
+645. @microsoft/microsoft-graph-client 3.0.2 - MIT
+
+
+
+646. @microsoft/microsoft-graph-types 1.41.0 - MIT
+
+
+
+647. @microsoft/microsoft-graph-types 2.35.0 - MIT
+
+
+
+648. @microsoft/teams-js 1.13.1 - MIT
+
+
+
+649. @nodelib/fs.scandir 2.1.5 - MIT
+
+650. @nodelib/fs.stat 2.0.5 - MIT
+
+651. @nodelib/fs.walk 1.2.8 - MIT
+
+652. @nova/react 1.0.4 - MIT
+
+653. @nova/types 1.2.1 - MIT
+
+654. @popperjs/core 2.11.8 - MIT
+
+655. @react-dnd/asap 5.0.2 - MIT
+
+656. @react-dnd/invariant 4.0.2 - MIT
+
+657. @react-dnd/shallowequal 4.0.2 - MIT
+
+658. @reduxjs/toolkit 1.9.7 - MIT
+
+
+
+659. @restart/hooks 0.4.11 - MIT
+
+
+
+660. @rollup/plugin-commonjs 11.1.0 - MIT
+
+
+
+661. @rollup/pluginutils 3.1.0 - MIT
+
+
+
+662. @rushstack/loader-raw-script 1.3.316 - MIT
+
+
+
+663. @rushstack/node-core-library 3.59.7 - MIT
+
+
+
+664. @rushstack/node-core-library 3.61.0 - MIT
+
+
+
+665. @sindresorhus/is 0.7.0 - MIT
+
+
+
+666. @socket.io/component-emitter 3.1.0 - MIT
+
+
+
+667. @swc/helpers 0.4.14 - MIT
+
+668. @testing-library/dom 7.30.4 - MIT
+
+
+
+669. @tootallnate/once 2.0.0 - MIT
+
+
+
+670. @tsconfig/node10 1.0.8 - MIT
+
+
+
+671. @tsconfig/node12 1.0.9 - MIT
+
+
+
+672. @tsconfig/node14 1.0.1 - MIT
+
+
+
+673. @tsconfig/node16 1.0.2 - MIT
+
+
+
+674. @types/aria-query 4.2.2 - MIT
+
+
+
+675. @types/asap 2.0.1 - MIT
+
+
+
+676. @types/circular-json 0.4.0 - MIT
+
+677. @types/debounce 1.2.2 - MIT
+
+
+
+678. @types/debug 4.1.8 - MIT
+
+
+
+679. @types/dom-inputevent 1.0.7 - MIT
+
+
+
+680. @types/double-ended-queue 2.1.1 - MIT
+
+681. @types/eslint 7.28.0 - MIT
+
+
+
+682. @types/eslint-scope 3.7.3 - MIT
+
+
+
+683. @types/estree 0.0.39 - MIT
+
+684. @types/estree 1.0.1 - MIT
+
+
+
+685. @types/events 3.0.0 - MIT
+
+686. @types/glob 7.1.3 - MIT
+
+687. @types/hast 2.3.1 - MIT
+
+688. @types/hoist-non-react-statics 3.3.4 - MIT
+
+
+
+689. @types/invariant 2.2.36 - MIT
+
+
+
+690. @types/istanbul-lib-coverage 2.0.3 - MIT
+
+691. @types/istanbul-lib-report 3.0.0 - MIT
+
+692. @types/istanbul-reports 3.0.0 - MIT
+
+693. @types/json-schema 7.0.9 - MIT
+
+
+
+694. @types/lodash 4.14.117 - MIT
+
+695. @types/lodash 4.14.182 - MIT
+
+
+
+696. @types/mdast 3.0.7 - MIT
+
+
+
+697. @types/mini-css-extract-plugin 2.5.1 - MIT
+
+698. @types/minimatch 3.0.4 - MIT
+
+699. @types/ms 0.7.31 - MIT
+
+700. @types/nconf 0.10.2 - MIT
+
+
+
+701. @types/node 12.20.24 - MIT
+
+
+
+702. @types/node 13.11.1 - MIT
+
+703. @types/node 16.18.34 - MIT
+
+
+
+704. @types/parse-json 4.0.0 - MIT
+
+705. @types/prop-types 15.7.5 - MIT
+
+
+
+706. @types/react 17.0.48 - MIT
+
+
+
+707. @types/react-dom 17.0.17 - MIT
+
+
+
+708. @types/react-redux 7.1.25 - MIT
+
+
+
+709. @types/react-responsive-masonry 2.1.0 - MIT
+
+
+
+710. @types/react-test-renderer 17.0.2 - MIT
+
+
+
+711. @types/requirejs 2.1.29 - MIT
+
+712. @types/ringbufferjs 1.1.0 - MIT
+
+713. @types/scheduler 0.16.1 - MIT
+
+714. @types/semver 6.2.2 - MIT
+
+715. @types/semver 7.5.5 - MIT
+
+
+
+716. @types/shallowequal 1.1.3 - MIT
+
+
+
+717. @types/terser-webpack-plugin 5.2.0 - MIT
+
+718. @types/unist 2.0.6 - MIT
+
+
+
+719. @types/uuid 3.4.10 - MIT
+
+
+
+720. @types/warning 3.0.3 - MIT
+
+
+
+721. @types/wicg-js-self-profiling 2022.3.0 - MIT
+
+
+
+722. @types/ws 6.0.4 - MIT
+
+723. @types/yargs 15.0.13 - MIT
+
+724. @types/yargs-parser 20.2.0 - MIT
+
+725. @uifabric/file-type-icons 7.8.5 - MIT
+
+
+
+726. @uifabric/foundation 7.10.16 - MIT
+
+
+
+727. @uifabric/icons 7.9.5 - MIT
+
+
+
+728. @uifabric/merge-styles 7.19.2 - MIT
+
+
+
+729. @uifabric/merge-styles 7.20.2 - MIT
+
+
+
+730. @uifabric/react-hooks 7.16.4 - MIT
+
+
+
+731. @uifabric/set-version 7.0.24 - MIT
+
+
+
+732. @uifabric/styling 7.25.1 - MIT
+
+
+
+733. @uifabric/utilities 7.38.2 - MIT
+
+
+
+734. @webassemblyjs/ast 1.11.5 - MIT
+
+735. @webassemblyjs/floating-point-hex-parser 1.11.5 - MIT
+
+
+
+736. @webassemblyjs/helper-api-error 1.11.5 - MIT
+
+737. @webassemblyjs/helper-buffer 1.11.5 - MIT
+
+738. @webassemblyjs/helper-numbers 1.11.5 - MIT
+
+739. @webassemblyjs/helper-wasm-bytecode 1.11.5 - MIT
+
+740. @webassemblyjs/helper-wasm-section 1.11.5 - MIT
+
+741. @webassemblyjs/ieee754 1.11.5 - MIT
+
+742. @webassemblyjs/utf8 1.11.5 - MIT
+
+743. @webassemblyjs/wasm-edit 1.11.5 - MIT
+
+744. @webassemblyjs/wasm-gen 1.11.5 - MIT
+
+745. @webassemblyjs/wasm-opt 1.11.5 - MIT
+
+746. @webassemblyjs/wasm-parser 1.11.5 - MIT
+
+747. @webassemblyjs/wast-printer 1.11.5 - MIT
+
+748. @webpack-cli/configtest 2.0.1 - MIT
+
+
+
+749. @webpack-cli/info 2.0.1 - MIT
+
+
+
+750. @webpack-cli/serve 2.0.2 - MIT
+
+
+
+751. @wojtekmaj/enzyme-adapter-react-17 0.6.7 - MIT
+
+
+
+752. @wojtekmaj/enzyme-adapter-utils 0.1.4 - MIT
+
+
+
+753. @wry/context 0.6.0 - MIT
+
+754. @wry/context 0.7.4 - MIT
+
+755. @wry/equality 0.1.11 - MIT
+
+
+
+756. @wry/equality 0.5.7 - MIT
+
+
+
+757. @wry/trie 0.3.0 - MIT
+
+758. @wry/trie 0.4.3 - MIT
+
+
+
+759. abort-controller 3.0.0 - MIT
+
+
+
+760. accepts 1.3.8 - MIT
+
+
+
+761. acorn 8.11.2 - MIT
+
+
+
+762. acorn-import-assertions 1.9.0 - MIT
+
+763. acorn-walk 8.2.0 - MIT
+
+
+
+764. adaptivecards 2.11.1 - MIT
+
+
+
+765. adaptivecards 2.9.0 - MIT
+
+766. after 0.8.2 - MIT
+
+
+
+767. agent-base 6.0.2 - MIT
+
+
+
+768. ajv 6.12.6 - MIT
+
+
+
+769. ajv 8.12.0 - MIT
+
+
+
+770. ajv-formats 2.1.1 - MIT
+
+
+
+771. ajv-keywords 3.5.2 - MIT
+
+
+
+772. ajv-keywords 5.1.0 - MIT
+
+
+
+773. ansi-colors 1.1.0 - MIT
+
+
+
+774. ansi-colors 3.2.4 - MIT
+
+
+
+775. ansi-regex 5.0.1 - MIT
+
+
+
+776. ansi-styles 3.2.1 - MIT
+
+
+
+777. ansi-styles 4.3.0 - MIT
+
+
+
+778. ansi-wrap 0.1.0 - MIT
+
+
+
+779. arch 2.2.0 - MIT
+
+
+
+780. archive-type 4.0.0 - MIT
+
+
+
+781. arg 4.1.3 - MIT
+
+
+
+782. array.prototype.filter 1.0.3 - MIT
+
+
+
+783. array.prototype.flat 1.3.2 - MIT
+
+
+
+784. arraybuffer.prototype.slice 1.0.2 - MIT
+
+
+
+785. arraybuffer.slice 0.0.7 - MIT
+
+
+
+786. array-buffer-byte-length 1.0.0 - MIT
+
+
+
+787. array-flatten 1.1.1 - MIT
+
+
+
+788. array-union 1.0.2 - MIT
+
+
+
+789. array-union 2.1.0 - MIT
+
+
+
+790. array-uniq 1.0.3 - MIT
+
+
+
+791. arr-diff 4.0.0 - MIT
+
+
+
+792. arr-union 3.1.0 - MIT
+
+
+
+793. asap 2.0.6 - MIT
+
+
+
+794. assert 2.1.0 - MIT
+
+
+
+795. assign-symbols 1.0.0 - MIT
+
+
+
+796. async 3.2.4 - MIT
+
+
+
+797. async-es 3.2.4 - MIT
+
+
+
+798. asynckit 0.4.0 - MIT
+
+
+
+799. available-typed-arrays 1.0.5 - MIT
+
+
+
+800. axios 0.26.0 - MIT
+
+
+
+801. babel-plugin-syntax-trailing-function-commas 7.0.0-beta.0 - MIT
+
+802. babel-preset-fbjs 3.4.0 - MIT
+
+803. backo2 1.0.2 - MIT
+
+804. bail 2.0.2 - MIT
+
+
+
+805. balanced-match 1.0.2 - MIT
+
+
+
+806. base64-arraybuffer 0.1.4 - MIT
+
+
+
+807. base64-arraybuffer 0.2.0 - MIT
+
+
+
+808. base64-js 1.5.1 - MIT
+
+
+
+809. best-random 1.0.3 - MIT
+
+810. big.js 5.2.2 - MIT
+
+
+
+811. binary-extensions 2.2.0 - MIT
+
+
+
+812. bin-build 3.0.0 - MIT
+
+
+
+813. bin-check 4.1.0 - MIT
+
+
+
+814. bin-version 3.1.0 - MIT
+
+
+
+815. bin-version-check 4.0.0 - MIT
+
+
+
+816. bin-wrapper 4.1.0 - MIT
+
+
+
+817. bl 1.2.3 - MIT
+
+
+
+818. blob 0.0.5 - MIT
+
+
+
+819. body-parser 1.20.0 - MIT
+
+
+
+820. body-parser 1.20.1 - MIT
+
+
+
+821. bonjour 3.5.0 - MIT
+
+
+
+822. botframework-schema 4.20.1 - MIT
+
+
+
+823. brace-expansion 1.1.11 - MIT
+
+
+
+824. braces 3.0.2 - MIT
+
+
+
+825. browserslist 4.22.1 - MIT
+
+
+
+826. buffer 5.7.1 - MIT
+
+
+
+827. buffer 6.0.3 - MIT
+
+
+
+828. buffer-alloc 1.2.0 - MIT
+
+829. buffer-alloc-unsafe 1.1.0 - MIT
+
+830. buffer-crc32 0.2.13 - MIT
+
+
+
+831. buffer-fill 1.0.0 - MIT
+
+832. buffer-from 1.1.1 - MIT
+
+
+
+833. buffer-indexof 1.1.1 - MIT
+
+
+
+834. bytes 3.1.2 - MIT
+
+
+
+835. cacheable-request 2.1.4 - MIT
+
+
+
+836. call-bind 1.0.2 - MIT
+
+
+
+837. call-bind 1.0.5 - MIT
+
+
+
+838. callsites 3.1.0 - MIT
+
+
+
+839. camelcase 5.3.1 - MIT
+
+
+
+840. caw 2.0.1 - MIT
+
+
+
+841. ccount 2.0.1 - MIT
+
+
+
+842. chalk 2.4.2 - MIT
+
+
+
+843. chalk 4.1.2 - MIT
+
+
+
+844. character-entities 2.0.2 - MIT
+
+
+
+845. cheerio 1.0.0-rc.12 - MIT
+
+
+
+846. chokidar 3.5.3 - MIT
+
+
+
+847. chrome-trace-event 1.0.3 - MIT
+
+
+
+848. circular-json 0.5.9 - MIT
+
+
+
+849. classnames 2.3.1 - MIT
+
+
+
+850. clean-webpack-plugin 4.0.0 - MIT
+
+
+
+851. clone 2.1.2 - MIT
+
+
+
+852. cloneable-readable 1.1.3 - MIT
+
+
+
+853. clone-buffer 1.0.0 - MIT
+
+
+
+854. clone-deep 4.0.1 - MIT
+
+
+
+855. clone-response 1.0.2 - MIT
+
+
+
+856. clone-stats 1.0.0 - MIT
+
+
+
+857. clsx 1.2.1 - MIT
+
+
+
+858. clsx 2.0.0 - MIT
+
+
+
+859. color-convert 1.9.3 - MIT
+
+
+
+860. color-convert 2.0.1 - MIT
+
+
+
+861. colorette 2.0.20 - MIT
+
+
+
+862. color-name 1.1.3 - MIT
+
+
+
+863. color-name 1.1.4 - MIT
+
+
+
+864. colors 1.2.5 - MIT
+
+
+
+865. combined-stream 1.0.8 - MIT
+
+
+
+866. commander 10.0.1 - MIT
+
+
+
+867. commander 2.20.3 - MIT
+
+
+
+868. commander 7.2.0 - MIT
+
+
+
+869. comma-separated-tokens 2.0.3 - MIT
+
+
+
+870. commondir 1.0.1 - MIT
+
+
+
+871. component-bind 1.0.0 - MIT
+
+872. component-emitter 1.3.0 - MIT
+
+
+
+873. component-inherit 0.0.3 - MIT
+
+874. concat-map 0.0.1 - MIT
+
+875. config-chain 1.1.12 - MIT
+
+
+
+876. connect-history-api-fallback 1.6.0 - MIT
+
+
+
+877. content-disposition 0.5.4 - MIT
+
+
+
+878. content-type 1.0.4 - MIT
+
+
+
+879. content-type 1.0.5 - MIT
+
+
+
+880. convert-source-map 2.0.0 - MIT
+
+
+
+881. cookie 0.5.0 - MIT
+
+
+
+882. cookie-signature 1.0.6 - MIT
+
+
+
+883. core-js 2.6.12 - MIT
+
+
+
+884. core-js-pure 3.33.2 - MIT
+
+
+
+885. core-util-is 1.0.2 - MIT
+
+
+
+886. cosmiconfig 7.0.1 - MIT
+
+
+
+887. create-require 1.1.1 - MIT
+
+
+
+888. cross-fetch 3.1.5 - MIT
+
+
+
+889. cross-spawn 5.1.0 - MIT
+
+
+
+890. cross-spawn 6.0.5 - MIT
+
+
+
+891. cross-spawn 7.0.3 - MIT
+
+
+
+892. cssesc 3.0.0 - MIT
+
+
+
+893. css-line-break 1.1.1 - MIT
+
+
+
+894. css-loader 6.8.1 - MIT
+
+
+
+895. csso 4.2.0 - MIT
+
+
+
+896. css-tree 1.1.3 - MIT
+
+
+
+897. csstype 3.1.2 - MIT
+
+
+
+898. cwebp-bin 7.0.1 - MIT
+
+
+
+899. date-arithmetic 4.1.0 - MIT
+
+
+
+900. date-fns 2.25.0 - MIT
+
+
+
+901. dayjs 1.11.10 - MIT
+
+
+
+902. debounce 1.2.1 - MIT
+
+
+
+903. debug 2.6.9 - MIT
+
+
+
+904. debug 3.1.0 - MIT
+
+
+
+905. debug 4.3.3 - MIT
+
+
+
+906. debug 4.3.4 - MIT
+
+
+
+907. decamelize 1.2.0 - MIT
+
+
+
+908. decode-named-character-reference 1.0.2 - MIT
+
+
+
+909. decode-uri-component 0.2.2 - MIT
+
+
+
+910. decompress 4.2.1 - MIT
+
+
+
+911. decompress-response 3.3.0 - MIT
+
+
+
+912. decompress-tar 4.1.1 - MIT
+
+
+
+913. decompress-tarbz2 4.1.1 - MIT
+
+
+
+914. decompress-targz 4.1.1 - MIT
+
+
+
+915. decompress-unzip 4.0.1 - MIT
+
+
+
+916. deep-is 0.1.3 - MIT
+
+
+
+917. deepmerge 4.2.2 - MIT
+
+
+
+918. define-data-property 1.1.1 - MIT
+
+
+
+919. define-properties 1.2.1 - MIT
+
+
+
+920. del 4.1.1 - MIT
+
+
+
+921. delayed-stream 1.0.0 - MIT
+
+
+
+922. depd 2.0.0 - MIT
+
+
+
+923. dequal 2.0.3 - MIT
+
+
+
+924. destroy 1.2.0 - MIT
+
+
+
+925. diff-sequences 27.5.1 - MIT
+
+
+
+926. dir-glob 3.0.1 - MIT
+
+
+
+927. discontinuous-range 1.0.0 - MIT
+
+
+
+928. dnd-core 16.0.1 - MIT
+
+929. dnd-core 9.5.1 - MIT
+
+
+
+930. dns-packet 1.3.4 - MIT
+
+
+
+931. dns-txt 2.0.2 - MIT
+
+
+
+932. dom-accessibility-api 0.5.14 - MIT
+
+
+
+933. dom-helpers 3.4.0 - MIT
+
+
+
+934. dom-helpers 5.2.1 - MIT
+
+
+
+935. dom-serializer 1.3.2 - MIT
+
+
+
+936. dom-serializer 2.0.0 - MIT
+
+
+
+937. double-ended-queue 2.1.0-0 - MIT
+
+
+
+938. download 6.2.5 - MIT
+
+
+
+939. download 7.1.0 - MIT
+
+
+
+940. editor 1.0.0 - MIT
+
+
+
+941. ee-first 1.1.1 - MIT
+
+
+
+942. emoji-regex 8.0.0 - MIT
+
+
+
+943. emojis-list 3.0.0 - MIT
+
+
+
+944. encodeurl 1.0.2 - MIT
+
+
+
+945. end-of-stream 1.4.4 - MIT
+
+
+
+946. engine.io-client 3.5.1 - MIT
+
+
+
+947. engine.io-client 6.2.3 - MIT
+
+
+
+948. engine.io-client 6.5.1 - MIT
+
+
+
+949. engine.io-parser 2.2.1 - MIT
+
+
+
+950. engine.io-parser 5.0.7 - MIT
+
+
+
+951. engine.io-parser 5.1.0 - MIT
+
+952. enhanced-resolve 5.15.0 - MIT
+
+
+
+953. envinfo 7.8.1 - MIT
+
+
+
+954. enzyme 3.11.0 - MIT
+
+
+
+955. enzyme-shallow-equal 1.0.5 - MIT
+
+
+
+956. error-ex 1.3.2 - MIT
+
+
+
+957. es6-promise 4.2.8 - MIT
+
+
+
+958. es-abstract 1.22.3 - MIT
+
+
+
+959. es-array-method-boxes-properly 1.0.0 - MIT
+
+
+
+960. escalade 3.1.1 - MIT
+
+
+
+961. escape-html 1.0.3 - MIT
+
+
+
+962. escape-string-regexp 1.0.5 - MIT
+
+
+
+963. escape-string-regexp 5.0.0 - MIT
+
+
+
+964. es-cookie 1.3.2 - MIT
+
+
+
+965. es-module-lexer 1.4.1 - MIT
+
+
+
+966. es-set-tostringtag 2.0.2 - MIT
+
+
+
+967. es-shim-unscopables 1.0.0 - MIT
+
+
+
+968. es-to-primitive 1.2.1 - MIT
+
+
+
+969. estree-walker 1.0.1 - MIT
+
+970. etag 1.8.1 - MIT
+
+
+
+971. eventemitter3 3.1.2 - MIT
+
+
+
+972. events 3.3.0 - MIT
+
+
+
+973. eventsource 1.1.2 - MIT
+
+
+
+974. event-target-shim 5.0.1 - MIT
+
+
+
+975. execa 0.7.0 - MIT
+
+
+
+976. execa 1.0.0 - MIT
+
+
+
+977. execa 4.1.0 - MIT
+
+
+
+978. execa 5.1.1 - MIT
+
+
+
+979. exec-buffer 3.2.0 - MIT
+
+
+
+980. executable 4.1.1 - MIT
+
+
+
+981. express 4.18.1 - MIT
+
+
+
+982. express 4.18.2 - MIT
+
+
+
+983. extend 3.0.2 - MIT
+
+
+
+984. extend-shallow 3.0.2 - MIT
+
+
+
+985. ext-list 2.2.2 - MIT
+
+
+
+986. ext-name 5.0.0 - MIT
+
+
+
+987. fast-deep-equal 3.1.3 - MIT
+
+
+
+988. fast-equals 4.0.3 - MIT
+
+
+
+989. fastest-levenshtein 1.0.12 - MIT
+
+
+
+990. fast-glob 3.2.12 - MIT
+
+
+
+991. fast-json-patch 3.1.1 - MIT
+
+
+
+992. fast-json-stable-stringify 2.1.0 - MIT
+
+
+
+993. fast-json-stringify 2.7.13 - MIT
+
+
+
+994. fast-levenshtein 2.0.6 - MIT
+
+
+
+995. fast-xml-parser 4.2.5 - MIT
+
+
+
+996. fbjs 3.0.4 - MIT
+
+997. fbjs-css-vars 1.0.2 - MIT
+
+
+
+998. fd-slicer 1.1.0 - MIT
+
+
+
+999. filename-reserved-regex 2.0.0 - MIT
+
+
+
+1000. filenamify 2.1.0 - MIT
+
+
+
+1001. file-selector 0.2.4 - MIT
+
+
+
+1002. file-type 10.11.0 - MIT
+
+
+
+1003. file-type 12.4.2 - MIT
+
+
+
+1004. file-type 3.9.0 - MIT
+
+
+
+1005. file-type 4.4.0 - MIT
+
+
+
+1006. file-type 5.2.0 - MIT
+
+
+
+1007. file-type 6.2.0 - MIT
+
+
+
+1008. file-type 8.1.0 - MIT
+
+
+
+1009. fill-range 7.0.1 - MIT
+
+
+
+1010. filter-obj 1.1.0 - MIT
+
+
+
+1011. finalhandler 1.2.0 - MIT
+
+
+
+1012. find-up 4.1.0 - MIT
+
+
+
+1013. find-versions 3.2.0 - MIT
+
+
+
+1014. follow-redirects 1.15.0 - MIT
+
+
+
+1015. for-each 0.3.3 - MIT
+
+
+
+1016. format-message 6.2.4 - MIT
+
+1017. format-message-formats 6.2.4 - MIT
+
+1018. format-message-interpret 6.2.4 - MIT
+
+1019. format-message-parse 6.2.4 - MIT
+
+1020. form-data 2.5.1 - MIT
+
+
+
+1021. form-data 4.0.0 - MIT
+
+
+
+1022. forwarded 0.2.0 - MIT
+
+
+
+1023. fresh 0.5.2 - MIT
+
+
+
+1024. from2 2.3.0 - MIT
+
+
+
+1025. fs 0.0.2 - MIT
+
+1026. fs-constants 1.0.0 - MIT
+
+
+
+1027. fsevents 2.3.2 - MIT
+
+
+
+1028. fs-extra 10.0.0 - MIT
+
+
+
+1029. fs-extra 7.0.1 - MIT
+
+
+
+1030. function.prototype.name 1.1.6 - MIT
+
+
+
+1031. function-bind 1.1.1 - MIT
+
+
+
+1032. function-bind 1.1.2 - MIT
+
+
+
+1033. functions-have-names 1.2.3 - MIT
+
+
+
+1034. gensync 1.0.0-beta.2 - MIT
+
+
+
+1035. geojson 0.5.0 - MIT
+
+
+
+1036. get-intrinsic 1.2.1 - MIT
+
+
+
+1037. get-intrinsic 1.2.2 - MIT
+
+
+
+1038. get-proxy 2.1.0 - MIT
+
+
+
+1039. get-stream 2.3.1 - MIT
+
+
+
+1040. get-stream 3.0.0 - MIT
+
+
+
+1041. get-stream 4.1.0 - MIT
+
+
+
+1042. get-stream 5.2.0 - MIT
+
+
+
+1043. get-stream 6.0.1 - MIT
+
+
+
+1044. get-symbol-description 1.0.0 - MIT
+
+
+
+1045. gifsicle 5.3.0 - MIT
+
+
+
+1046. git-rev-sync 3.0.2 - MIT
+
+
+
+1047. git-up 7.0.0 - MIT
+
+
+
+1048. git-url-parse 13.1.0 - MIT
+
+
+
+1049. globalize 0.1.1 - MIT
+
+
+
+1050. globals 11.12.0 - MIT
+
+
+
+1051. globalthis 1.0.3 - MIT
+
+
+
+1052. globby 10.0.2 - MIT
+
+
+
+1053. globby 11.1.0 - MIT
+
+
+
+1054. globby 6.1.0 - MIT
+
+
+
+1055. gopd 1.0.1 - MIT
+
+
+
+1056. got 7.1.0 - MIT
+
+
+
+1057. got 8.3.2 - MIT
+
+
+
+1058. graphql 15.8.0 - MIT
+
+
+
+1059. graphql-tag 2.12.6 - MIT
+
+
+
+1060. gulp-merge-json 2.1.1 - MIT
+
+1061. has 1.0.3 - MIT
+
+
+
+1062. has 1.0.4 - MIT
+
+
+
+1063. has-bigints 1.0.2 - MIT
+
+
+
+1064. has-binary2 1.0.3 - MIT
+
+1065. has-cors 1.1.0 - MIT
+
+1066. has-flag 3.0.0 - MIT
+
+
+
+1067. has-flag 4.0.0 - MIT
+
+
+
+1068. hasown 2.0.0 - MIT
+
+
+
+1069. has-property-descriptors 1.0.0 - MIT
+
+
+
+1070. has-proto 1.0.1 - MIT
+
+
+
+1071. has-symbols 1.0.3 - MIT
+
+
+
+1072. has-symbol-support-x 1.4.2 - MIT
+
+
+
+1073. has-tostringtag 1.0.0 - MIT
+
+
+
+1074. has-to-string-tag-x 1.4.1 - MIT
+
+
+
+1075. hast-util-whitespace 2.0.1 - MIT
+
+
+
+1076. history 4.10.1 - MIT
+
+
+
+1077. history-query-enhancer 1.0.4 - MIT
+
+
+
+1078. html2canvas 1.0.0 - MIT
+
+
+
+1079. html-dom-parser 1.0.1 - MIT
+
+
+
+1080. html-element-map 1.3.1 - MIT
+
+
+
+1081. html-entities 1.4.0 - MIT
+
+1082. htmlparser2 6.1.0 - MIT
+
+
+
+1083. htmlparser2 8.0.2 - MIT
+
+
+
+1084. html-parse-stringify 3.0.1 - MIT
+
+1085. html-react-parser 1.2.7 - MIT
+
+
+
+1086. http-errors 2.0.0 - MIT
+
+
+
+1087. http-proxy-agent 5.0.0 - MIT
+
+
+
+1088. http-proxy-middleware 0.19.1 - MIT
+
+
+
+1089. https-proxy-agent 5.0.0 - MIT
+
+
+
+1090. http-status-codes 2.3.0 - MIT
+
+1091. http-status-enum 1.0.2 - MIT
+
+
+
+1092. humps 2.0.1 - MIT
+
+
+
+1093. i18next 21.2.4 - MIT
+
+1094. i18next-browser-languagedetector 6.1.2 - MIT
+
+
+
+1095. iconv-lite 0.4.24 - MIT
+
+
+
+1096. identity-obj-proxy 3.0.0 - MIT
+
+
+
+1097. idle-tracker 0.1.3 - MIT
+
+
+
+1098. ignore 5.2.4 - MIT
+
+
+
+1099. imagemin 7.0.1 - MIT
+
+
+
+1100. imagemin-gifsicle 7.0.0 - MIT
+
+
+
+1101. imagemin-mozjpeg 9.0.0 - MIT
+
+
+
+1102. imagemin-optipng 8.0.0 - MIT
+
+
+
+1103. imagemin-pngquant 9.0.2 - MIT
+
+
+
+1104. imagemin-svgo 9.0.0 - MIT
+
+
+
+1105. imagemin-webp 7.0.0 - MIT
+
+
+
+1106. image-webpack-loader 8.1.0 - MIT
+
+1107. immer 9.0.6 - MIT
+
+
+
+1108. import-fresh 3.3.0 - MIT
+
+
+
+1109. import-lazy 3.1.0 - MIT
+
+
+
+1110. import-lazy 4.0.0 - MIT
+
+
+
+1111. import-local 2.0.0 - MIT
+
+
+
+1112. import-local 3.0.2 - MIT
+
+
+
+1113. indexof 0.0.1 - MIT
+
+1114. inline-style-parser 0.1.1 - MIT
+
+1115. internal-ip 4.3.0 - MIT
+
+
+
+1116. internal-slot 1.0.6 - MIT
+
+
+
+1117. interpret 3.1.1 - MIT
+
+
+
+1118. into-stream 3.1.0 - MIT
+
+
+
+1119. invariant 2.2.4 - MIT
+
+
+
+1120. inversify 6.0.1 - MIT
+
+
+
+1121. ip 1.1.5 - MIT
+
+
+
+1122. ipaddr.js 1.9.1 - MIT
+
+
+
+1123. ip-regex 2.1.0 - MIT
+
+
+
+1124. is-arguments 1.1.0 - MIT
+
+
+
+1125. isarray 0.0.1 - MIT
+
+
+
+1126. isarray 1.0.0 - MIT
+
+
+
+1127. isarray 2.0.1 - MIT
+
+
+
+1128. isarray 2.0.5 - MIT
+
+
+
+1129. is-array-buffer 3.0.2 - MIT
+
+
+
+1130. is-arrayish 0.2.1 - MIT
+
+
+
+1131. is-bigint 1.0.1 - MIT
+
+
+
+1132. is-binary-path 2.1.0 - MIT
+
+
+
+1133. is-boolean-object 1.1.2 - MIT
+
+
+
+1134. is-buffer 2.0.5 - MIT
+
+
+
+1135. is-callable 1.2.7 - MIT
+
+
+
+1136. is-core-module 2.13.1 - MIT
+
+
+
+1137. is-date-object 1.0.2 - MIT
+
+
+
+1138. is-extendable 1.0.1 - MIT
+
+
+
+1139. is-extglob 2.1.1 - MIT
+
+
+
+1140. is-fullwidth-code-point 3.0.0 - MIT
+
+
+
+1141. is-generator-function 1.0.8 - MIT
+
+
+
+1142. is-gif 3.0.0 - MIT
+
+
+
+1143. is-glob 4.0.3 - MIT
+
+
+
+1144. is-jpg 2.0.0 - MIT
+
+
+
+1145. is-nan 1.3.2 - MIT
+
+
+
+1146. is-natural-number 4.0.1 - MIT
+
+
+
+1147. is-negative-zero 2.0.2 - MIT
+
+
+
+1148. is-number 7.0.0 - MIT
+
+
+
+1149. is-number-object 1.0.4 - MIT
+
+
+
+1150. isobject 3.0.1 - MIT
+
+
+
+1151. is-object 1.0.2 - MIT
+
+
+
+1152. isomorphic-ws 4.0.1 - MIT
+
+
+
+1153. is-path-cwd 2.2.0 - MIT
+
+
+
+1154. is-path-in-cwd 2.1.0 - MIT
+
+
+
+1155. is-path-inside 2.1.0 - MIT
+
+
+
+1156. is-plain-obj 1.1.0 - MIT
+
+
+
+1157. is-plain-obj 4.1.0 - MIT
+
+
+
+1158. is-plain-object 2.0.4 - MIT
+
+
+
+1159. is-png 2.0.0 - MIT
+
+
+
+1160. is-reference 1.2.1 - MIT
+
+1161. is-regex 1.1.4 - MIT
+
+
+
+1162. is-retry-allowed 1.2.0 - MIT
+
+
+
+1163. is-shared-array-buffer 1.0.2 - MIT
+
+
+
+1164. is-ssh 1.4.0 - MIT
+
+
+
+1165. is-stream 1.1.0 - MIT
+
+
+
+1166. is-stream 2.0.0 - MIT
+
+
+
+1167. is-string 1.0.7 - MIT
+
+
+
+1168. is-subset 0.1.1 - MIT
+
+
+
+1169. is-svg 4.4.0 - MIT
+
+
+
+1170. is-symbol 1.0.3 - MIT
+
+
+
+1171. is-typed-array 1.1.12 - MIT
+
+
+
+1172. isurl 1.0.0 - MIT
+
+
+
+1173. is-weakref 1.0.2 - MIT
+
+
+
+1174. jest-worker 27.5.1 - MIT
+
+
+
+1175. jju 1.4.0 - MIT
+
+
+
+1176. js-cookie 3.0.1 - MIT
+
+
+
+1177. jsesc 2.5.2 - MIT
+
+
+
+1178. json3 3.3.3 - MIT
+
+
+
+1179. json5 1.0.2 - MIT
+
+
+
+1180. json5 2.2.3 - MIT
+
+
+
+1181. json-buffer 3.0.0 - MIT
+
+
+
+1182. jsonfile 4.0.0 - MIT
+
+
+
+1183. jsonfile 6.1.0 - MIT
+
+
+
+1184. json-parse-even-better-errors 2.3.1 - MIT
+
+
+
+1185. jsonpath 1.1.1 - MIT
+
+
+
+1186. jsonschema 1.4.0 - MIT
+
+
+
+1187. json-schema-traverse 0.4.1 - MIT
+
+
+
+1188. json-schema-traverse 1.0.0 - MIT
+
+
+
+1189. jsrsasign 10.5.25 - MIT
+
+
+
+1190. js-sha256 0.9.0 - MIT
+
+
+
+1191. js-tokens 4.0.0 - MIT
+
+
+
+1192. jsx-runtime 1.0.0 - MIT
+
+1193. js-yaml 4.1.0 - MIT
+
+
+
+1194. junk 3.1.0 - MIT
+
+
+
+1195. just-curry-it 3.2.1 - MIT
+
+
+
+1196. jwt-decode 2.2.0 - MIT
+
+
+
+1197. jwt-decode 3.1.2 - MIT
+
+
+
+1198. keyborg 2.0.0 - MIT
+
+
+
+1199. keyv 3.0.0 - MIT
+
+
+
+1200. kind-of 6.0.3 - MIT
+
+
+
+1201. kleur 4.1.5 - MIT
+
+
+
+1202. klona 2.0.6 - MIT
+
+
+
+1203. levn 0.3.0 - MIT
+
+
+
+1204. lines-and-columns 1.1.6 - MIT
+
+
+
+1205. linkify-it 3.0.2 - MIT
+
+
+
+1206. loader-runner 4.2.0 - MIT
+
+
+
+1207. loader-utils 1.4.2 - MIT
+
+
+
+1208. loader-utils 2.0.4 - MIT
+
+
+
+1209. locate-path 5.0.0 - MIT
+
+
+
+1210. lodash 4.17.21 - MIT
+
+
+
+1211. lodash.debounce 4.0.8 - MIT
+
+
+
+1212. lodash.escape 4.0.1 - MIT
+
+
+
+1213. lodash.flattendeep 4.4.0 - MIT
+
+
+
+1214. lodash.get 4.4.2 - MIT
+
+
+
+1215. lodash.isequal 4.5.0 - MIT
+
+
+
+1216. lodash.mergewith 4.6.2 - MIT
+
+
+
+1217. lodash-es 4.17.21 - MIT
+
+
+
+1218. loglevel 1.8.0 - MIT
+
+
+
+1219. longest-streak 3.1.0 - MIT
+
+
+
+1220. lookup-closest-locale 6.2.0 - MIT
+
+1221. loose-envify 1.4.0 - MIT
+
+
+
+1222. lowercase-keys 1.0.0 - MIT
+
+
+
+1223. lowercase-keys 1.0.1 - MIT
+
+
+
+1224. luxon 3.4.4 - MIT
+
+
+
+1225. magic-string 0.25.7 - MIT
+
+
+
+1226. make-dir 1.3.0 - MIT
+
+
+
+1227. make-dir 3.1.0 - MIT
+
+
+
+1228. markdown-it 12.3.2 - MIT
+
+
+
+1229. markdown-table 3.0.3 - MIT
+
+
+
+1230. match-sorter 4.2.1 - MIT
+
+
+
+1231. mdast-util-definitions 5.1.2 - MIT
+
+
+
+1232. mdast-util-find-and-replace 2.2.2 - MIT
+
+
+
+1233. mdast-util-from-markdown 1.3.1 - MIT
+
+
+
+1234. mdast-util-gfm 2.0.2 - MIT
+
+
+
+1235. mdast-util-gfm-autolink-literal 1.0.3 - MIT
+
+
+
+1236. mdast-util-gfm-footnote 1.0.2 - MIT
+
+
+
+1237. mdast-util-gfm-strikethrough 1.0.3 - MIT
+
+
+
+1238. mdast-util-gfm-table 1.0.7 - MIT
+
+
+
+1239. mdast-util-gfm-task-list-item 1.0.2 - MIT
+
+
+
+1240. mdast-util-phrasing 3.0.1 - MIT
+
+
+
+1241. mdast-util-to-hast 12.3.0 - MIT
+
+
+
+1242. mdast-util-to-markdown 1.5.0 - MIT
+
+
+
+1243. mdast-util-to-string 3.2.0 - MIT
+
+
+
+1244. mdurl 1.0.1 - MIT
+
+
+
+1245. media-typer 0.3.0 - MIT
+
+
+
+1246. memoize-one 5.2.1 - MIT
+
+
+
+1247. memoize-one 6.0.0 - MIT
+
+
+
+1248. memory-fs 0.4.1 - MIT
+
+
+
+1249. merge2 1.4.1 - MIT
+
+
+
+1250. merge-descriptors 1.0.1 - MIT
+
+
+
+1251. merge-stream 2.0.0 - MIT
+
+
+
+1252. methods 1.1.2 - MIT
+
+
+
+1253. micromark 3.2.0 - MIT
+
+
+
+1254. micromark-core-commonmark 1.1.0 - MIT
+
+
+
+1255. micromark-extension-gfm 2.0.3 - MIT
+
+
+
+1256. micromark-extension-gfm-autolink-literal 1.0.5 - MIT
+
+
+
+1257. micromark-extension-gfm-footnote 1.1.2 - MIT
+
+
+
+1258. micromark-extension-gfm-strikethrough 1.0.7 - MIT
+
+
+
+1259. micromark-extension-gfm-table 1.0.7 - MIT
+
+
+
+1260. micromark-extension-gfm-tagfilter 1.0.2 - MIT
+
+
+
+1261. micromark-extension-gfm-task-list-item 1.0.5 - MIT
+
+
+
+1262. micromark-factory-destination 1.1.0 - MIT
+
+
+
+1263. micromark-factory-label 1.1.0 - MIT
+
+
+
+1264. micromark-factory-space 1.1.0 - MIT
+
+
+
+1265. micromark-factory-title 1.1.0 - MIT
+
+
+
+1266. micromark-factory-whitespace 1.1.0 - MIT
+
+
+
+1267. micromark-util-character 1.2.0 - MIT
+
+
+
+1268. micromark-util-chunked 1.1.0 - MIT
+
+
+
+1269. micromark-util-classify-character 1.1.0 - MIT
+
+
+
+1270. micromark-util-combine-extensions 1.1.0 - MIT
+
+
+
+1271. micromark-util-decode-numeric-character-reference 1.1.0 - MIT
+
+
+
+1272. micromark-util-decode-string 1.1.0 - MIT
+
+
+
+1273. micromark-util-encode 1.1.0 - MIT
+
+
+
+1274. micromark-util-html-tag-name 1.2.0 - MIT
+
+
+
+1275. micromark-util-normalize-identifier 1.1.0 - MIT
+
+
+
+1276. micromark-util-resolve-all 1.1.0 - MIT
+
+
+
+1277. micromark-util-sanitize-uri 1.2.0 - MIT
+
+
+
+1278. micromark-util-subtokenize 1.1.0 - MIT
+
+
+
+1279. micromark-util-symbol 1.1.0 - MIT
+
+
+
+1280. micromark-util-types 1.1.0 - MIT
+
+
+
+1281. micromatch 4.0.5 - MIT
+
+
+
+1282. mime 1.6.0 - MIT
+
+
+
+1283. mime-db 1.52.0 - MIT
+
+
+
+1284. mime-types 2.1.35 - MIT
+
+
+
+1285. mimic-fn 2.1.0 - MIT
+
+
+
+1286. mimic-response 1.0.1 - MIT
+
+
+
+1287. mini-create-react-context 0.4.1 - MIT
+
+
+
+1288. mini-css-extract-plugin 2.7.5 - MIT
+
+
+
+1289. minimist 1.2.6 - MIT
+
+1290. mobx 6.10.2 - MIT
+
+
+
+1291. mobx-react 7.6.0 - MIT
+
+
+
+1292. mobx-react-lite 1.5.2 - MIT
+
+
+
+1293. mobx-react-lite 3.4.0 - MIT
+
+
+
+1294. moment 2.29.4 - MIT
+
+
+
+1295. moment-timezone 0.5.43 - MIT
+
+
+
+1296. monaco-editor 0.17.1 - MIT
+
+
+
+1297. monaco-editor 0.37.0 - MIT
+
+
+
+1298. mozjpeg 7.1.1 - MIT
+
+1299. mri 1.2.0 - MIT
+
+
+
+1300. ms 2.0.0 - MIT
+
+
+
+1301. ms 2.1.2 - MIT
+
+
+
+1302. ms 2.1.3 - MIT
+
+
+
+1303. msal 1.4.0 - MIT
+
+1304. msal 1.4.12 - MIT
+
+
+
+1305. multicast-dns 6.2.3 - MIT
+
+
+
+1306. multicast-dns-service-types 1.1.0 - MIT
+
+
+
+1307. murmurhash 0.0.2 - MIT
+
+1308. murmurhash-js 1.0.0 - MIT
+
+
+
+1309. nanoid 3.3.6 - MIT
+
+
+
+1310. nconf 0.12.0 - MIT
+
+
+
+1311. nearley 2.20.1 - MIT
+
+
+
+1312. negotiator 0.6.3 - MIT
+
+
+
+1313. neo-async 2.6.2 - MIT
+
+
+
+1314. nice-try 1.0.5 - MIT
+
+
+
+1315. node-fetch 2.6.7 - MIT
+
+
+
+1316. node-fetch 2.7.0 - MIT
+
+
+
+1317. node-int64 0.4.0 - MIT
+
+
+
+1318. node-releases 2.0.13 - MIT
+
+
+
+1319. normalize-path 3.0.0 - MIT
+
+
+
+1320. normalize-url 2.0.1 - MIT
+
+
+
+1321. npm-conf 1.1.3 - MIT
+
+
+
+1322. npm-run-path 2.0.2 - MIT
+
+
+
+1323. npm-run-path 4.0.1 - MIT
+
+
+
+1324. nullthrows 1.1.1 - MIT
+
+
+
+1325. object.assign 4.1.5 - MIT
+
+
+
+1326. object.entries 1.1.7 - MIT
+
+
+
+1327. object.values 1.1.7 - MIT
+
+
+
+1328. object-assign 4.1.1 - MIT
+
+
+
+1329. object-basin 2.0.1 - MIT
+
+1330. object-inspect 1.12.3 - MIT
+
+
+
+1331. object-inspect 1.13.1 - MIT
+
+
+
+1332. object-is 1.1.5 - MIT
+
+
+
+1333. object-keys 1.1.1 - MIT
+
+
+
+1334. office-ui-fabric-core 11.0.1 - MIT
+
+
+
+1335. office-ui-fabric-react 7.199.6 - MIT
+
+
+
+1336. onetime 5.1.2 - MIT
+
+
+
+1337. on-finished 2.4.1 - MIT
+
+
+
+1338. opn 5.5.0 - MIT
+
+
+
+1339. optimism 0.16.2 - MIT
+
+
+
+1340. optimism 0.17.5 - MIT
+
+
+
+1341. optionator 0.8.3 - MIT
+
+
+
+1342. optipng-bin 7.0.1 - MIT
+
+1343. os-filter-obj 2.0.0 - MIT
+
+
+
+1344. ow 0.17.0 - MIT
+
+
+
+1345. parent-module 1.0.1 - MIT
+
+
+
+1346. parse5 7.1.2 - MIT
+
+
+
+1347. parse5-htmlparser2-tree-adapter 7.0.0 - MIT
+
+
+
+1348. parse-json 5.2.0 - MIT
+
+
+
+1349. parse-path 7.0.0 - MIT
+
+
+
+1350. parseqs 0.0.6 - MIT
+
+
+
+1351. parseuri 0.0.6 - MIT
+
+
+
+1352. parseurl 1.3.3 - MIT
+
+
+
+1353. parse-url 8.1.0 - MIT
+
+
+
+1354. path-browserify 1.0.1 - MIT
+
+
+
+1355. path-exists 4.0.0 - MIT
+
+
+
+1356. path-is-absolute 1.0.1 - MIT
+
+
+
+1357. path-key 2.0.1 - MIT
+
+
+
+1358. path-key 3.1.1 - MIT
+
+
+
+1359. path-parse 1.0.7 - MIT
+
+
+
+1360. path-to-regexp 0.1.7 - MIT
+
+
+
+1361. path-to-regexp 1.8.0 - MIT
+
+
+
+1362. path-type 4.0.0 - MIT
+
+
+
+1363. p-cancelable 0.3.0 - MIT
+
+
+
+1364. p-cancelable 0.4.1 - MIT
+
+
+
+1365. pend 1.2.0 - MIT
+
+1366. pepjs 0.5.3 - MIT
+
+
+
+1367. performance-now 2.1.0 - MIT
+
+
+
+1368. p-event 1.3.0 - MIT
+
+
+
+1369. p-event 2.3.1 - MIT
+
+
+
+1370. p-finally 1.0.0 - MIT
+
+
+
+1371. picomatch 2.3.1 - MIT
+
+
+
+1372. pify 2.3.0 - MIT
+
+
+
+1373. pify 3.0.0 - MIT
+
+
+
+1374. pify 4.0.1 - MIT
+
+
+
+1375. pinkie-promise 2.0.1 - MIT
+
+
+
+1376. p-is-promise 1.1.0 - MIT
+
+
+
+1377. pixelworks 1.1.0 - MIT
+
+1378. pkg-dir 4.2.0 - MIT
+
+
+
+1379. p-limit 2.3.0 - MIT
+
+
+
+1380. p-limit 3.1.0 - MIT
+
+
+
+1381. p-locate 4.1.0 - MIT
+
+
+
+1382. plugin-error 1.0.1 - MIT
+
+
+
+1383. plurals-cldr 1.0.4 - MIT
+
+1384. p-map 2.1.0 - MIT
+
+
+
+1385. p-map-series 1.0.0 - MIT
+
+
+
+1386. postcss 8.4.31 - MIT
+
+
+
+1387. postcss-modules-local-by-default 4.0.3 - MIT
+
+
+
+1388. postcss-selector-parser 6.0.10 - MIT
+
+
+
+1389. postcss-value-parser 4.2.0 - MIT
+
+
+
+1390. p-pipe 3.1.0 - MIT
+
+
+
+1391. preact 10.6.6 - MIT
+
+
+
+1392. p-reduce 1.0.0 - MIT
+
+
+
+1393. prelude-ls 1.1.2 - MIT
+
+
+
+1394. prepend-http 1.0.4 - MIT
+
+
+
+1395. prepend-http 2.0.0 - MIT
+
+
+
+1396. p-retry 3.0.1 - MIT
+
+
+
+1397. pretty-format 26.6.2 - MIT
+
+
+
+1398. process-nextick-args 2.0.1 - MIT
+
+
+
+1399. promise 7.3.1 - MIT
+
+
+
+1400. property-information 6.3.0 - MIT
+
+
+
+1401. prop-types 15.8.1 - MIT
+
+
+
+1402. protocol-buffers-schema 3.6.0 - MIT
+
+
+
+1403. protocols 2.0.1 - MIT
+
+
+
+1404. proxy-addr 2.0.7 - MIT
+
+
+
+1405. p-timeout 1.2.1 - MIT
+
+
+
+1406. p-timeout 2.0.1 - MIT
+
+
+
+1407. p-try 2.2.0 - MIT
+
+
+
+1408. pump 3.0.0 - MIT
+
+
+
+1409. punycode 1.3.2 - MIT
+
+
+
+1410. punycode 2.1.1 - MIT
+
+
+
+1411. querystring 0.2.0 - MIT
+
+1412. query-string 5.1.1 - MIT
+
+
+
+1413. query-string 6.14.1 - MIT
+
+
+
+1414. query-string 7.1.3 - MIT
+
+
+
+1415. querystringify 2.2.0 - MIT
+
+
+
+1416. queue-microtask 1.2.3 - MIT
+
+
+
+1417. raf 3.4.1 - MIT
+
+
+
+1418. randexp 0.4.6 - MIT
+
+
+
+1419. randombytes 2.1.0 - MIT
+
+
+
+1420. range-parser 1.2.1 - MIT
+
+
+
+1421. raw-body 2.5.1 - MIT
+
+
+
+1422. raw-loader 0.5.1 - MIT
+
+1423. rbush 2.0.2 - MIT
+
+
+
+1424. react 16.14.0 - MIT
+
+
+
+1425. react 17.0.1 - MIT
+
+
+
+1426. react 17.0.2 - MIT
+
+
+
+1427. react-apollo 3.1.5 - MIT
+
+
+
+1428. react-big-calendar 1.8.5 - MIT
+
+
+
+1429. react-dnd 16.0.1 - MIT
+
+1430. react-dnd 9.5.1 - MIT
+
+
+
+1431. react-dnd-html5-backend 16.0.1 - MIT
+
+1432. react-dnd-html5-backend 9.5.1 - MIT
+
+
+
+1433. react-dom 17.0.1 - MIT
+
+
+
+1434. react-dom 17.0.2 - MIT
+
+
+
+1435. react-draggable 4.4.6 - MIT
+
+
+
+1436. react-error-boundary 3.1.3 - MIT
+
+
+
+1437. react-error-boundary 4.0.4 - MIT
+
+
+
+1438. react-grid-layout 1.4.4 - MIT
+
+
+
+1439. react-i18next 11.12.0 - MIT
+
+1440. react-is 16.13.1 - MIT
+
+
+
+1441. react-is 17.0.1 - MIT
+
+
+
+1442. react-is 17.0.2 - MIT
+
+
+
+1443. react-is 18.1.0 - MIT
+
+
+
+1444. react-lifecycles-compat 3.0.4 - MIT
+
+
+
+1445. react-markdown 8.0.7 - MIT
+
+
+
+1446. react-native-base64 0.2.1 - MIT
+
+
+
+1447. react-overlays 5.2.1 - MIT
+
+
+
+1448. react-property 1.0.1 - MIT
+
+1449. react-query 2.23.0 - MIT
+
+
+
+1450. react-query-devtools 2.5.1 - MIT
+
+
+
+1451. react-redux 7.2.9 - MIT
+
+
+
+1452. react-resizable 3.0.5 - MIT
+
+
+
+1453. react-responsive-masonry 2.1.7 - MIT
+
+
+
+1454. react-router 5.2.0 - MIT
+
+
+
+1455. react-router-dom 5.2.0 - MIT
+
+
+
+1456. react-shadow 20.4.0 - MIT
+
+
+
+1457. react-string-format 1.0.1 - MIT
+
+1458. react-toastify 9.1.3 - MIT
+
+
+
+1459. react-virtualized-auto-sizer 1.0.20 - MIT
+
+
+
+1460. react-window 1.8.9 - MIT
+
+
+
+1461. react-window-infinite-loader 1.0.7 - MIT
+
+
+
+1462. readable-stream 2.3.8 - MIT
+
+
+
+1463. readdirp 3.6.0 - MIT
+
+
+
+1464. rechoir 0.8.0 - MIT
+
+
+
+1465. reduce-reducers 0.4.3 - MIT
+
+
+
+1466. redux 4.2.1 - MIT
+
+
+
+1467. redux-actions 2.6.5 - MIT
+
+
+
+1468. redux-devtools-extension 2.13.9 - MIT
+
+1469. redux-thunk 2.4.2 - MIT
+
+
+
+1470. regenerator-runtime 0.13.11 - MIT
+
+
+
+1471. regenerator-runtime 0.14.0 - MIT
+
+
+
+1472. regexp.prototype.flags 1.5.1 - MIT
+
+
+
+1473. relay-compiler 10.1.3 - MIT
+
+1474. relay-compiler-language-graphitation 0.5.3 - MIT
+
+1475. relay-compiler-language-typescript 14.3.0 - MIT
+
+
+
+1476. relay-compiler-language-typescript 15.0.1 - MIT
+
+
+
+1477. relay-runtime 10.1.3 - MIT
+
+1478. remark-gfm 3.0.1 - MIT
+
+
+
+1479. remark-parse 10.0.2 - MIT
+
+
+
+1480. remark-rehype 10.1.0 - MIT
+
+
+
+1481. remove-accents 0.4.2 - MIT
+
+
+
+1482. replace-ext 1.0.0 - MIT
+
+
+
+1483. require-directory 2.1.1 - MIT
+
+
+
+1484. require-from-string 2.0.2 - MIT
+
+
+
+1485. requirejs 2.3.6 - MIT
+
+
+
+1486. requires-port 1.0.0 - MIT
+
+
+
+1487. reselect 2.5.4 - MIT
+
+
+
+1488. reselect 3.0.1 - MIT
+
+
+
+1489. reselect 4.1.8 - MIT
+
+
+
+1490. resize-observer-polyfill 1.5.1 - MIT
+
+
+
+1491. resolve 1.22.8 - MIT
+
+
+
+1492. resolve-cwd 2.0.0 - MIT
+
+
+
+1493. resolve-cwd 3.0.0 - MIT
+
+
+
+1494. resolve-from 3.0.0 - MIT
+
+
+
+1495. resolve-from 4.0.0 - MIT
+
+
+
+1496. resolve-from 5.0.0 - MIT
+
+
+
+1497. resolve-pathname 3.0.0 - MIT
+
+
+
+1498. resolve-protobuf-schema 2.1.0 - MIT
+
+
+
+1499. response-iterator 0.2.6 - MIT
+
+
+
+1500. responselike 1.0.2 - MIT
+
+
+
+1501. ret 0.1.15 - MIT
+
+
+
+1502. retry 0.13.1 - MIT
+
+
+
+1503. reusify 1.0.4 - MIT
+
+
+
+1504. rfdc 1.3.0 - MIT
+
+
+
+1505. ringbufferjs 2.0.0 - MIT
+
+1506. roosterjs 7.11.3 - MIT
+
+
+
+1507. roosterjs-cross-window 1.1.0 - MIT
+
+
+
+1508. roosterjs-editor-api 7.11.3 - MIT
+
+
+
+1509. roosterjs-editor-core 7.11.3 - MIT
+
+
+
+1510. roosterjs-editor-dom 7.11.3 - MIT
+
+
+
+1511. roosterjs-editor-dom 8.12.0 - MIT
+
+
+
+1512. roosterjs-editor-plugins 7.11.3 - MIT
+
+
+
+1513. roosterjs-editor-types 7.11.3 - MIT
+
+
+
+1514. roosterjs-editor-types 8.12.0 - MIT
+
+
+
+1515. roosterjs-html-sanitizer 1.2.0 - MIT
+
+
+
+1516. roosterjs-plugin-image-resize 7.11.3 - MIT
+
+
+
+1517. roosterjs-plugin-picker 7.11.3 - MIT
+
+
+
+1518. rtl-css-js 1.16.1 - MIT
+
+
+
+1519. run-parallel 1.2.0 - MIT
+
+
+
+1520. sade 1.8.1 - MIT
+
+
+
+1521. safe-array-concat 1.0.1 - MIT
+
+
+
+1522. safe-buffer 5.1.2 - MIT
+
+
+
+1523. safe-buffer 5.2.1 - MIT
+
+
+
+1524. safer-buffer 2.1.2 - MIT
+
+
+
+1525. safe-regex-test 1.0.0 - MIT
+
+
+
+1526. sass-loader 13.2.2 - MIT
+
+
+
+1527. scheduler 0.20.2 - MIT
+
+
+
+1528. schema-utils 2.7.1 - MIT
+
+
+
+1529. schema-utils 3.3.0 - MIT
+
+
+
+1530. schema-utils 4.0.0 - MIT
+
+
+
+1531. secure-keys 1.0.0 - MIT
+
+1532. seek-bzip 1.0.6 - MIT
+
+
+
+1533. semver-regex 2.0.0 - MIT
+
+
+
+1534. semver-truncate 1.1.2 - MIT
+
+
+
+1535. send 0.18.0 - MIT
+
+
+
+1536. serialize-error 8.1.0 - MIT
+
+
+
+1537. serve-static 1.15.0 - MIT
+
+
+
+1538. set-function-length 1.1.1 - MIT
+
+
+
+1539. set-function-name 2.0.1 - MIT
+
+
+
+1540. setimmediate 1.0.5 - MIT
+
+
+
+1541. shallow-clone 3.0.1 - MIT
+
+
+
+1542. shallowequal 1.1.0 - MIT
+
+
+
+1543. shebang-command 1.2.0 - MIT
+
+
+
+1544. shebang-command 2.0.0 - MIT
+
+
+
+1545. shebang-regex 1.0.0 - MIT
+
+
+
+1546. shebang-regex 3.0.0 - MIT
+
+
+
+1547. side-channel 1.0.4 - MIT
+
+
+
+1548. sillyname 0.1.0 - MIT
+
+1549. singleton-state 1.0.1 - MIT
+
+
+
+1550. slash 3.0.0 - MIT
+
+
+
+1551. socket.io-client 2.5.0 - MIT
+
+
+
+1552. socket.io-client 4.4.0 - MIT
+
+
+
+1553. socket.io-client 4.5.4 - MIT
+
+
+
+1554. socket.io-client 4.7.1 - MIT
+
+
+
+1555. socket.io-parser 3.3.3 - MIT
+
+
+
+1556. socket.io-parser 4.2.4 - MIT
+
+
+
+1557. sockjs-client 1.5.2 - MIT
+
+
+
+1558. sorted-btree 1.8.0 - MIT
+
+
+
+1559. sort-keys 1.1.2 - MIT
+
+
+
+1560. sort-keys 2.0.0 - MIT
+
+
+
+1561. sort-keys-length 1.0.1 - MIT
+
+
+
+1562. source-list-map 2.0.1 - MIT
+
+
+
+1563. sourcemap-codec 1.4.8 - MIT
+
+
+
+1564. source-map-support 0.5.21 - MIT
+
+
+
+1565. space-separated-tokens 2.0.2 - MIT
+
+
+
+1566. split-on-first 1.1.0 - MIT
+
+
+
+1567. squee 1.1.0 - MIT
+
+1568. stable 0.1.8 - MIT
+
+
+
+1569. static-eval 2.0.2 - MIT
+
+1570. statuses 2.0.1 - MIT
+
+
+
+1571. strict-uri-encode 1.1.0 - MIT
+
+
+
+1572. strict-uri-encode 2.0.0 - MIT
+
+
+
+1573. string.prototype.trim 1.2.8 - MIT
+
+
+
+1574. string.prototype.trimend 1.0.7 - MIT
+
+
+
+1575. string.prototype.trimstart 1.0.7 - MIT
+
+
+
+1576. string_decoder 1.1.1 - MIT
+
+
+
+1577. string-width 4.2.3 - MIT
+
+
+
+1578. strip-ansi 6.0.1 - MIT
+
+
+
+1579. strip-dirs 2.1.0 - MIT
+
+
+
+1580. strip-eof 1.0.0 - MIT
+
+
+
+1581. strip-final-newline 2.0.0 - MIT
+
+
+
+1582. strip-outer 1.0.1 - MIT
+
+
+
+1583. strnum 1.0.5 - MIT
+
+
+
+1584. style-to-js 1.1.0 - MIT
+
+1585. style-to-object 0.3.0 - MIT
+
+
+
+1586. style-to-object 0.4.2 - MIT
+
+
+
+1587. stylis 4.3.0 - MIT
+
+
+
+1588. supports-color 5.5.0 - MIT
+
+
+
+1589. supports-color 6.1.0 - MIT
+
+
+
+1590. supports-color 7.2.0 - MIT
+
+
+
+1591. supports-color 8.1.1 - MIT
+
+
+
+1592. supports-preserve-symlinks-flag 1.0.0 - MIT
+
+
+
+1593. svgo 2.8.0 - MIT
+
+
+
+1594. symbol-observable 4.0.0 - MIT
+
+
+
+1595. tabster 4.9.0 - MIT
+
+
+
+1596. tapable 2.2.1 - MIT
+
+
+
+1597. tar-stream 1.6.2 - MIT
+
+
+
+1598. temp-dir 1.0.0 - MIT
+
+
+
+1599. tempfile 2.0.0 - MIT
+
+
+
+1600. terser-webpack-plugin 5.3.9 - MIT
+
+
+
+1601. through 2.3.8 - MIT
+
+
+
+1602. timed-cache 2.0.0 - MIT
+
+
+
+1603. timed-out 4.0.1 - MIT
+
+
+
+1604. tiny-invariant 1.3.1 - MIT
+
+
+
+1605. tiny-warning 1.0.3 - MIT
+
+1606. to-array 0.1.4 - MIT
+
+
+
+1607. to-buffer 1.1.1 - MIT
+
+
+
+1608. to-camel-case 1.0.0 - MIT
+
+
+
+1609. to-fast-properties 2.0.0 - MIT
+
+
+
+1610. toidentifier 1.0.1 - MIT
+
+
+
+1611. to-no-case 1.0.2 - MIT
+
+
+
+1612. to-regex-range 5.0.1 - MIT
+
+
+
+1613. to-space-case 1.0.0 - MIT
+
+
+
+1614. tr46 0.0.3 - MIT
+
+1615. trim-lines 3.0.1 - MIT
+
+
+
+1616. trim-repeated 1.0.0 - MIT
+
+
+
+1617. trough 2.1.0 - MIT
+
+
+
+1618. ts-invariant 0.10.3 - MIT
+
+
+
+1619. ts-invariant 0.4.4 - MIT
+
+
+
+1620. ts-invariant 0.9.4 - MIT
+
+
+
+1621. ts-node 10.9.1 - MIT
+
+
+
+1622. tunnel 0.0.6 - MIT
+
+
+
+1623. type-check 0.3.2 - MIT
+
+
+
+1624. typed-array-buffer 1.0.0 - MIT
+
+
+
+1625. typed-array-byte-offset 1.0.0 - MIT
+
+
+
+1626. typed-array-length 1.0.4 - MIT
+
+
+
+1627. type-is 1.6.18 - MIT
+
+
+
+1628. ua-parser-js 0.7.35 - MIT
+
+
+
+1629. uc.micro 1.0.6 - MIT
+
+
+
+1630. ulid 2.3.0 - MIT
+
+
+
+1631. unbox-primitive 1.0.2 - MIT
+
+
+
+1632. unbzip2-stream 1.4.3 - MIT
+
+
+
+1633. uncontrollable 7.2.0 - MIT
+
+
+
+1634. uncontrollable 7.2.1 - MIT
+
+
+
+1635. underscore 1.12.1 - MIT
+
+
+
+1636. undici 5.27.2 - MIT
+
+
+
+1637. unified 10.1.2 - MIT
+
+
+
+1638. unist-util-generated 2.0.1 - MIT
+
+
+
+1639. unist-util-is 5.2.1 - MIT
+
+
+
+1640. unist-util-position 4.0.4 - MIT
+
+
+
+1641. unist-util-stringify-position 3.0.3 - MIT
+
+
+
+1642. unist-util-visit 4.1.2 - MIT
+
+
+
+1643. unist-util-visit-parents 5.1.3 - MIT
+
+
+
+1644. universalify 0.1.2 - MIT
+
+
+
+1645. universalify 2.0.0 - MIT
+
+
+
+1646. unpipe 1.0.0 - MIT
+
+
+
+1647. update-browserslist-db 1.0.13 - MIT
+
+
+
+1648. url 0.11.0 - MIT
+
+
+
+1649. url-parse 1.5.10 - MIT
+
+
+
+1650. url-parse-lax 1.0.0 - MIT
+
+
+
+1651. url-parse-lax 3.0.0 - MIT
+
+
+
+1652. url-to-options 1.0.1 - MIT
+
+
+
+1653. use-debounce 6.0.1 - MIT
+
+
+
+1654. use-disposable 1.0.1 - MIT
+
+
+
+1655. use-file-picker 0.2.4 - MIT
+
+1656. use-sync-external-store 1.2.0 - MIT
+
+
+
+1657. utif 2.0.1 - MIT
+
+
+
+1658. util 0.12.5 - MIT
+
+
+
+1659. util-deprecate 1.0.2 - MIT
+
+
+
+1660. utils-merge 1.0.1 - MIT
+
+
+
+1661. uuid 3.4.0 - MIT
+
+
+
+1662. uuid 8.3.2 - MIT
+
+
+
+1663. uuid 9.0.0 - MIT
+
+
+
+1664. uvu 0.5.6 - MIT
+
+
+
+1665. v8-compile-cache-lib 3.0.1 - MIT
+
+
+
+1666. validator 13.11.0 - MIT
+
+
+
+1667. value-equal 1.0.1 - MIT
+
+
+
+1668. vary 1.1.2 - MIT
+
+
+
+1669. vfile 5.3.7 - MIT
+
+
+
+1670. vfile-message 3.1.4 - MIT
+
+
+
+1671. vinyl 2.2.1 - MIT
+
+
+
+1672. void-elements 3.1.0 - MIT
+
+
+
+1673. warning 4.0.3 - MIT
+
+
+
+1674. wastedrendersdetector 2.0.1 - MIT
+
+
+
+1675. watchpack 2.4.0 - MIT
+
+
+
+1676. webpack 5.89.0 - MIT
+
+
+
+1677. webpack-dev-middleware 3.7.3 - MIT
+
+
+
+1678. webpack-dev-server 3.11.3 - MIT
+
+
+
+1679. webpack-log 2.0.0 - MIT
+
+
+
+1680. webpack-manifest-plugin 5.0.0 - MIT
+
+
+
+1681. webpack-merge 5.8.0 - MIT
+
+
+
+1682. webpack-sources 2.2.0 - MIT
+
+
+
+1683. webpack-sources 3.2.3 - MIT
+
+
+
+1684. whatwg-fetch 2.0.3 - MIT
+
+
+
+1685. whatwg-fetch 3.6.19 - MIT
+
+
+
+1686. whatwg-url 5.0.0 - MIT
+
+
+
+1687. which-boxed-primitive 1.0.2 - MIT
+
+
+
+1688. which-typed-array 1.1.13 - MIT
+
+
+
+1689. wildcard 2.0.0 - MIT
+
+
+
+1690. word-wrap 1.2.5 - MIT
+
+
+
+1691. worker-loader 3.0.8 - MIT
+
+
+
+1692. workspace-tools 0.30.0 - MIT
+
+1693. wrap-ansi 5.1.0 - MIT
+
+
+
+1694. wrap-ansi 6.2.0 - MIT
+
+
+
+1695. wrap-ansi 7.0.0 - MIT
+
+
+
+1696. ws 7.4.6 - MIT
+
+
+
+1697. ws 8.11.0 - MIT
+
+
+
+1698. ws 8.2.3 - MIT
+
+
+
+1699. xml2js 0.5.0 - MIT
+
+
+
+1700. xmlbuilder 11.0.1 - MIT
+
+
+
+1701. xmlhttprequest-ssl 1.6.3 - MIT
+
+
+
+1702. xtend 4.0.2 - MIT
+
+
+
+1703. yargs 13.3.2 - MIT
+
+
+
+1704. yargs 15.4.1 - MIT
+
+
+
+1705. yargs 16.2.0 - MIT
+
+
+
+1706. yauzl 2.10.0 - MIT
+
+
+
+1707. yeast 0.1.2 - MIT
+
+
+
+1708. yn 3.1.1 - MIT
+
+
+
+1709. yocto-queue 0.1.0 - MIT
+
+
+
+1710. zen-observable 0.8.15 - MIT
+
+
+
+1711. zen-observable-ts 1.2.5 - MIT
+
+
+
+1712. zod 1.11.17 - MIT
+
+
+
+1713. zod 3.22.4 - MIT
+
+
+
+1714. z-schema 4.2.4 - MIT
+
+
+
+1715. z-schema 5.0.6 - MIT
+
+
+
+1716. zustand 4.4.7 - MIT
+
+
+
+1717. zwitch 2.0.4 - MIT
+
+
+
+1718. pako 1.0.11 - MIT AND Zlib
+
+
+
+1719. type-fest 0.11.0 - MIT OR (CC0-1.0 AND MIT)
+
+
+
+1720. type-fest 0.20.2 - MIT OR (CC0-1.0 AND MIT)
+
+
+
+1721. path-is-inside 1.0.2 - MIT OR WTFPL OR (MIT AND WTFPL)
+
+
+
+1722. @microsoft/file-browser 1.0.0-preview.0
+
+1723. argparse 2.0.1 - Python-2.0
+
+
+
+1724. cookies-js 1.2.1 - Unlicense
+
+
+
+1725. fs-monkey 1.0.5 - Unlicense
+
+1726. memfs 3.6.0 - Unlicense
+
+1727. lz-string 1.4.4 - WTFPL
+
+
 <?xml version="1.0"?>
 <NounInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/office/accessservices/2011/07/application">
   <Version>15.0.0.0</Version>
